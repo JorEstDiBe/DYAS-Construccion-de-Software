@@ -1,0 +1,17 @@
+com\balitechy\spacewar\main\factory\SpriteGameFactory.class
+com\balitechy\spacewar\main\logic\entities\Player.class
+com\balitechy\spacewar\main\logic\entities\VectorPlayer.class
+com\balitechy\spacewar\main\logic\entities\Obstacle.class
+com\balitechy\spacewar\main\input\InputHandler.class
+com\balitechy\spacewar\main\logic\entities\SpriteObstacle.class
+com\balitechy\spacewar\main\logic\entities\VectorObstacle.class
+com\balitechy\spacewar\main\factory\GameFactory.class
+com\balitechy\spacewar\main\logic\entities\Bullet.class
+com\balitechy\spacewar\main\logic\entities\VectorBullet.class
+com\balitechy\spacewar\main\factory\VectorGameFactory.class
+com\balitechy\spacewar\main\logic\control\ObstacleController.class
+com\balitechy\spacewar\main\rendering\ImageFlyweightFactory.class
+com\balitechy\spacewar\main\core\Game.class
+com\balitechy\spacewar\main\logic\control\BulletController.class
+com\balitechy\spacewar\main\rendering\BackgroundRenderer.class
+com\balitechy\spacewar\main\rendering\SpritesImageLoader.class
