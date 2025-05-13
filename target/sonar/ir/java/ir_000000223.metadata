@@ -1,0 +1,6 @@
+com.balitechy.spacewar.main.logic.entities.VectorBullet#render(Ljava/awt/Graphics;)V
+false
+0469500a8fea11c3973a03003a7f38f1
+==
+drawLine java.awt.Graphics#drawLine(IIII)V
+setColor java.awt.Graphics#setColor(Ljava/awt/Color;)V

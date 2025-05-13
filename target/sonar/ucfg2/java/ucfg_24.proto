@@ -1,0 +1,55 @@
+
+†com.balitechy.spacewar.main.factory.VectorGameFactory#createPlayer(IILcom/balitechy/spacewar/main/core/Game;)Lcom/balitechy/spacewar/main/logic/entities/Player;ì
+àC:/UNI/Microsoft VS Code/DYAS-Construccion-de-Software-analisis/src/main/java/com/balitechy/spacewar/main/factory/VectorGameFactory.java ("startingBlock*∞
+startingBlock (7†
+ù
+ (
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*K
+
+__unknown_file (/
+-
+game%com.balitechy.spacewar.main.core.Gamem
+k
+2 (6-
+game%com.balitechy.spacewar.main.core.Game"__annotation*"
+
+__unknown_file (
+
+%2*
+1*÷
+1  (!ÖÇ
+ (=
+%07com.balitechy.spacewar.main.logic.entities.VectorPlayer"7com.balitechy.spacewar.main.logic.entities.VectorPlayerÒ
+Ó
+ (+
+%1"jcom.balitechy.spacewar.main.logic.entities.VectorPlayer#<init>(IILcom/balitechy/spacewar/main/core/Game;)V*[
+
+__unknown_file (?
+=
+%07com.balitechy.spacewar.main.logic.entities.VectorPlayer*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*K
+
+__unknown_file (/
+-
+game%com.balitechy.spacewar.main.core.Game"K
+ (,?
+=
+%07com.balitechy.spacewar.main.logic.entities.VectorPlayer: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"":9
+- (6-
+game%com.balitechy.spacewar.main.core.GameB97
+5com.balitechy.spacewar.main.factory.VectorGameFactoryH

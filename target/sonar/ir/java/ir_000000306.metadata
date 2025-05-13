@@ -1,0 +1,11 @@
+com.balitechy.spacewar.main.rendering.ImageFlyweightFactory#getImage(Ljava/lang/String;IIII)Ljava/awt/image/BufferedImage;
+false
+fca9ee8aa33fb19670fd731a81f1a5b3
+com.balitechy.spacewar.main.rendering.SpritesImageLoader#<init>(Ljava/lang/String;)V
+com.balitechy.spacewar.main.rendering.SpritesImageLoader#instance-init#
+==
+containsKey java.util.Map#containsKey(Ljava/lang/Object;)Z
+get java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;
+getImage com.balitechy.spacewar.main.rendering.SpritesImageLoader#getImage(IIII)Ljava/awt/image/BufferedImage;
+loadImage com.balitechy.spacewar.main.rendering.SpritesImageLoader#loadImage()Ljava/awt/image/BufferedImage;
+put java.util.Map#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;

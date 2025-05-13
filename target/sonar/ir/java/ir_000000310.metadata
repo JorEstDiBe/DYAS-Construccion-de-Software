@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.factory.SpriteGameFactory#createBulletController()Lcom/balitechy/spacewar/main/logic/control/BulletController;
+false
+d223a41dd5ba0604313fd96138ab2656
+com.balitechy.spacewar.main.logic.control.BulletController#<init>()V
+com.balitechy.spacewar.main.logic.control.BulletController#instance-init#

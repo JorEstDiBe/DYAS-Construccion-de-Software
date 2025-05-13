@@ -1,0 +1,52 @@
+
+ecom.balitechy.spacewar.main.rendering.SpritesImageLoader#getImage(IIII)Ljava/awt/image/BufferedImage;–
+‹C:/UNI/Microsoft VS Code/DYAS-Construccion-de-Software-analisis/src/main/java/com/balitechy/spacewar/main/rendering/SpritesImageLoader.java ("1*Á
+1 (œ
+™
+ ("
+%0java.awt.image.BufferedImage"__id*c
+
+__unknown_file (G*E:
+8com.balitechy.spacewar.main.rendering.SpritesImageLoader"
+imageäá
+ (A"
+%1java.awt.image.BufferedImage"Ljava.awt.image.BufferedImage#getSubimage(IIII)Ljava/awt/image/BufferedImage;*@
+
+__unknown_file ($
+"
+%0java.awt.image.BufferedImage*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2getSubimage(IIII)y
+w
+ (B#
+imgjava.awt.image.BufferedImage"__id*@
+
+__unknown_file ($
+"
+%1java.awt.image.BufferedImage"1
+ (%
+#
+imgjava.awt.image.BufferedImage: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B<:
+8com.balitechy.spacewar.main.rendering.SpritesImageLoaderH

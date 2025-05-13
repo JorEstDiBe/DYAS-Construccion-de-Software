@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.logic.control.ObstacleController#render(Ljava/awt/Graphics;)V
+false
+a66ea1507c95558da878a85e815988b7
+==
+render com.balitechy.spacewar.main.logic.entities.Obstacle#render(Ljava/awt/Graphics;)V

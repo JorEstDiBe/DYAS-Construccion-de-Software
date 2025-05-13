@@ -1,0 +1,485 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150655071*java2.B¬
+R
+Msrc/test/java/com/balitechy/spacewar/main/logic/control/BulletController.java2
+
+package4
+.
+)com.balitechy.spacewar.main.logic.control5
+?
+:com.balitechy.spacewar.main.logic.control.BulletController7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+BulletController12
+C
+=com.balitechy.spacewar.main.logic.control.BulletController.bl14
+
+field15
+
+bl16
+7
+1com.balitechy.spacewar.main.logic.entities.Bullet18
+
+unknown19
+
+
+uses20
+C
+=com.balitechy.spacewar.main.logic.control.BulletController.vb22
+
+vb23
+=
+7com.balitechy.spacewar.main.logic.entities.VectorBullet25
+H
+Bcom.balitechy.spacewar.main.logic.control.BulletController#tick()V27
+
+method28
+
+
+tick29
+
+
+references30
+?
+9com.balitechy.spacewar.main.logic.entities.Bullet#getY()D32
+
+calls33
+
+returns34
+ƒ
+}com.balitechy.spacewar.main.logic.control.BulletController#removeBullet(Lcom/balitechy/spacewar/main/logic/entities/Bullet;)V36
+?
+9com.balitechy.spacewar.main.logic.entities.Bullet#tick()V38
+E
+?com.balitechy.spacewar.main.logic.entities.VectorBullet#getY()D40
+‹
+„com.balitechy.spacewar.main.logic.control.BulletController#removeBulletV(Lcom/balitechy/spacewar/main/logic/entities/VectorBullet;)V42
+E
+?com.balitechy.spacewar.main.logic.entities.VectorBullet#tick()V44
+]
+Wcom.balitechy.spacewar.main.logic.control.BulletController#render(Ljava/awt/Graphics;)V46
+
+render47
+T
+Ncom.balitechy.spacewar.main.logic.entities.Bullet#render(Ljava/awt/Graphics;)V49
+Z
+Tcom.balitechy.spacewar.main.logic.entities.VectorBullet#render(Ljava/awt/Graphics;)V51
+€
+zcom.balitechy.spacewar.main.logic.control.BulletController#addBullet(Lcom/balitechy/spacewar/main/logic/entities/Bullet;)V53
+
+	addBullet54
+
+	has param55
+
+is type56
+
+removeBullet57
+ˆ
+com.balitechy.spacewar.main.logic.control.BulletController#addBulletV(Lcom/balitechy/spacewar/main/logic/entities/VectorBullet;)V59
+
+
+addBulletV60
+
+removeBulletV61
+c
+]com.balitechy.spacewar.main.logic.control.BulletController#getBullets()Ljava/util/LinkedList;63
+
+
+getBullets64
+i
+ccom.balitechy.spacewar.main.logic.control.BulletController#getVectorBullets()Ljava/util/LinkedList;66
+
+getVectorBullets67J
+
+1
+12Z
+
+3	
+354jï
+@
+35:
+353628 *
+1- -(26:3B
+	
+9
+10
+
+
+11
+57
+@
+65:
+656628 *
+1= =(26:3B
+	
+9
+10
+
+
+11
+67
+
+31
+313219
+@
+26:
+262728 *
+1 (26:3B
+	
+9
+10
+
+
+11
+29
+
+43
+434419
+@
+21:
+212215 *
+1 (26:3B
+	
+9
+10
+
+
+11
+23
+@
+13:
+131415 *
+1
+ 
+(26:3B
+	
+9
+10
+
+
+11
+16
+
+37
+373819
+
+48
+484919
+@
+45:
+454628 *
+1 (26:3B
+	
+9
+10
+
+
+11
+47
+
+17
+171819
+@
+58:
+585928 *
+11 1(26:3B
+	
+9
+10
+
+
+11
+60
+@
+52:
+525328 *
+1) )(26:3B
+	
+9
+10
+
+
+11
+54
+
+39
+394019
+@
+62:
+626328 *
+19 9(26:3B
+	
+9
+10
+
+
+11
+64
+
+24
+242519
+@
+41:
+414228 *
+15 5(26:3B
+	
+9
+10
+
+
+11
+61
+
+50
+505119
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12r‚
+
+131720*
+1
+ 
+(
+
+131720*
+1
+3 
+(9
+
+212420*
+1 (#
+
+212420*
+19 (E
+
+261330*
+1 (
+
+261330*
+1 (
+
+261730*
+1 (
+
+263133*
+1 (
+
+261734*
+1 (
+
+261330*
+1 (
+
+261330*
+1 (
+
+26630*
+1 (
+
+263533*
+1 (
+
+261734*
+1 ( 
+
+261330*
+1 ( 
+
+261330*
+1 ( 
+
+261730*
+1 (
+
+263733*
+1 (
+
+261734*
+1 (
+
+261330*
+1 (
+
+261330*
+1 (
+
+262130*
+1 (
+
+262130*
+1 (
+
+262430*
+1 (
+
+263933*
+1 (
+
+262434*
+1 (
+
+262130*
+1 (
+
+262130*
+1 (
+
+26630*
+1 (
+
+264133*
+1 (
+
+262434*
+1 (!
+
+262130*
+1 (!
+
+262130*
+1 (!
+
+262430*
+1 (
+
+264333*
+1 (
+
+262434*
+1 (
+
+262130*
+1 (
+
+262130*
+1 (
+
+451330*
+1   (
+
+451330*
+1   (
+
+451730*
+1! !(
+
+454833*
+1! !(
+
+451734*
+1! !(
+
+451330*
+1! !(
+
+451330*
+1! !(
+
+452130*
+1$ $(
+
+452130*
+1$ $(
+
+452430*
+1% %(
+
+455033*
+1% %(
+
+452434*
+1% %(
+
+452130*
+1% %(
+
+452130*
+1% %(
+
+521755*
+1) )(!
+
+521756*
+1)" )((
+
+521720*
+1) )(!
+
+521330*
+1*	 *(
+
+521330*
+1*	 *(
+
+351755*
+1- -($
+
+351756*
+1-% -(+
+
+351720*
+1- -($
+
+351330*
+1.	 .(
+
+351330*
+1.	 .(
+
+582455*
+11 1((
+
+582456*
+11) 1(5
+
+582420*
+11 1((
+
+582130*
+12	 2(
+
+582130*
+12	 2(
+
+412455*
+15 5(+
+
+412456*
+15, 5(8
+
+412420*
+15 5(+
+
+412130*
+16	 6(
+
+412130*
+16	 6(
+
+621720*
+19 9(
+
+621330*
+1: :(
+
+652420*
+1= =(#
+
+652130*
+1> >(

@@ -1,0 +1,8 @@
+com.balitechy.spacewar.main.core.Game#resetGame()V
+false
+19824ae699ff72646b459ccfbd67b305
+com.balitechy.spacewar.main.logic.control.ObstacleController#<init>(Lcom/balitechy/spacewar/main/core/Game;)V
+com.balitechy.spacewar.main.logic.control.ObstacleController#instance-init#
+==
+createBulletController com.balitechy.spacewar.main.factory.GameFactory#createBulletController()Lcom/balitechy/spacewar/main/logic/control/BulletController;
+createPlayer com.balitechy.spacewar.main.factory.GameFactory#createPlayer(IILcom/balitechy/spacewar/main/core/Game;)Lcom/balitechy/spacewar/main/logic/entities/Player;

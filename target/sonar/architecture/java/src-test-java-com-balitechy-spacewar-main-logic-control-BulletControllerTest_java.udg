@@ -1,0 +1,516 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150654940*java2.BÌ
+V
+Qsrc/test/java/com/balitechy/spacewar/main/logic/control/BulletControllerTest.java2
+
+package4
+.
+)com.balitechy.spacewar.main.logic.control5
+C
+>com.balitechy.spacewar.main.logic.control.BulletControllerTest7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+BulletControllerTest12
+w
+qcom.balitechy.spacewar.main.logic.control.BulletControllerTest#dummyGame()Lcom/balitechy/spacewar/main/core/Game;14
+
+method15
+
+private16
+
+	dummyGame17
++
+%com.balitechy.spacewar.main.core.Game19
+
+unknown20
+
+returns21
+
+
+uses22
+
+calls23
+;
+5com.balitechy.spacewar.main.factory.SpriteGameFactory25
+F
+@com.balitechy.spacewar.main.logic.control.BulletControllerTest$127
+
+	protected28
+^
+Xcom.balitechy.spacewar.main.logic.control.BulletControllerTest#testAddAndRemoveBullet()V30
+
+testAddAndRemoveBullet31
+ 
+org.junit.jupiter.api.Test33
+
+annotated by34
+@
+:com.balitechy.spacewar.main.logic.control.BulletController36
+
+is type37
+7
+1com.balitechy.spacewar.main.logic.entities.Bullet39
+
+
+references40
+Ä
+zcom.balitechy.spacewar.main.logic.control.BulletController#addBullet(Lcom/balitechy/spacewar/main/logic/entities/Bullet;)V42
+&
+ org.junit.jupiter.api.Assertions44
+8
+2org.junit.jupiter.api.Assertions#assertEquals(II)V46
+c
+]com.balitechy.spacewar.main.logic.control.BulletController#getBullets()Ljava/util/LinkedList;48
+É
+}com.balitechy.spacewar.main.logic.control.BulletController#removeBullet(Lcom/balitechy/spacewar/main/logic/entities/Bullet;)V50
+f
+`com.balitechy.spacewar.main.logic.control.BulletControllerTest#testTickRemovesBulletOffScreen()V52
+$
+testTickRemovesBulletOffScreen53
+F
+@com.balitechy.spacewar.main.logic.control.BulletControllerTest$255
+N
+Hcom.balitechy.spacewar.main.logic.control.BulletControllerTest$2#getY()D57
+
+
+getY58
+H
+Bcom.balitechy.spacewar.main.logic.control.BulletController#tick()V60
+d
+^com.balitechy.spacewar.main.logic.control.BulletControllerTest#testAddAndRemoveVectorBullet()V62
+"
+testAddAndRemoveVectorBullet63
+=
+7com.balitechy.spacewar.main.logic.entities.VectorBullet65
+à
+Åcom.balitechy.spacewar.main.logic.control.BulletController#addBulletV(Lcom/balitechy/spacewar/main/logic/entities/VectorBullet;)V67
+i
+ccom.balitechy.spacewar.main.logic.control.BulletController#getVectorBullets()Ljava/util/LinkedList;69
+ã
+Ñcom.balitechy.spacewar.main.logic.control.BulletController#removeBulletV(Lcom/balitechy/spacewar/main/logic/entities/VectorBullet;)V71
+l
+fcom.balitechy.spacewar.main.logic.control.BulletControllerTest#testTickRemovesVectorBulletOffScreen()V73
+*
+$testTickRemovesVectorBulletOffScreen74
+F
+@com.balitechy.spacewar.main.logic.control.BulletControllerTest$376
+N
+Hcom.balitechy.spacewar.main.logic.control.BulletControllerTest$3#getY()D78J
+
+1
+12Z
+
+3	
+354jŸ
+
+68
+686920
+@
+51:
+515215 *
+1) )(26:3B
+	
+9
+10
+
+
+11
+53
+A
+56;
+565715 *
+1. .(254:3B
+	
+9
+10
+
+
+11
+58
+@
+61:
+616215 *
+19 9(26:3B
+	
+9
+10
+
+
+11
+63
+@
+29:
+293015 *
+1 (26:3B
+	
+9
+10
+
+
+11
+31
+9
+64
+678 *
+1 (":3B
+	
+9
+10
+
+
+11
+12
+
+41
+414220
+
+45
+454620
+
+47
+474820
+
+70
+707120
+
+35
+353620
+
+49
+495020
+
+18
+181920
+
+59
+596020
+
+24
+242520
+@
+72:
+727315 *
+1D D(26:3B
+	
+9
+10
+
+
+11
+74
+
+32
+323320
+
+38
+383920
+
+66
+666720
+
+43
+434420
+
+64
+646520
+4
+75.
+75768 *
+1H5 H(6272:3B
+	
+9
+28
+4
+54.
+54558 *
+1-: -(;251:3B
+	
+9
+28
+A
+77;
+777815 *
+1I I(275:3B
+	
+9
+10
+
+
+11
+58
+4
+26.
+26278 *
+12 (3213:3B
+	
+9
+28
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17r§
+
+131821*
+1 (
+
+131822*
+1 (
+
+131823*
+1 (
+
+132423*
+1 (.
+
+293234*
+1 (
+
+293222*
+1 (
+
+
+293537*
+1   ($
+
+293522*
+1 	  (
+
+293523*
+1 +  (;
+
+293837*
+1! !(
+
+293822*
+1!	 !(
+
+293823*
+1! !(#
+
+291821*
+1!. !(7
+
+29640*
+1!. !(7
+
+291323*
+1!. !(7
+
+293540*
+1"	 "(
+
+294123*
+1" "(
+
+294340*
+1#	 #(
+
+294523*
+1#	 #(
+
+293540*
+1# #(#
+
+294723*
+1#$ #(.
+
+293540*
+1%	 %(
+
+294923*
+1% %( 
+
+294340*
+1&	 &(
+
+294523*
+1&	 &(
+
+293540*
+1& &(#
+
+294723*
+1&$ &(.
+
+513234*
+1) )(
+
+513222*
+1) )(
+
+
+513537*
+1+ +($
+
+513522*
+1+	 +(
+
+513523*
+1++ +(;
+
+513837*
+1- -(
+
+513822*
+1-	 -(
+
+513823*
+1- -(#
+
+511821*
+1-- -(6
+
+51640*
+1-- -(6
+
+511323*
+1-- -(6
+
+513540*
+14	 4(
+
+514123*
+14 4(
+
+513540*
+15	 5(
+
+515923*
+15 5(
+
+514340*
+16	 6(
+
+514523*
+16	 6(
+
+513540*
+16 6(#
+
+514723*
+16$ 6(.
+
+613234*
+19 9(
+
+613222*
+19 9(
+
+
+613537*
+1; ;($
+
+613522*
+1;	 ;(
+
+613523*
+1;+ ;(;
+
+616437*
+1< <(
+
+616422*
+1<	 <(
+
+616423*
+1< <(+
+
+613540*
+1=	 =(
+
+616623*
+1= =(
+
+614340*
+1>	 >(
+
+614523*
+1>	 >(
+
+613540*
+1> >(#
+
+616823*
+1>$ >(4
+
+613540*
+1@	 @(
+
+617023*
+1@ @(!
+
+614340*
+1A	 A(
+
+614523*
+1A	 A(
+
+613540*
+1A A(#
+
+616823*
+1A$ A(4
+
+723234*
+1D D(
+
+723222*
+1D D(
+
+
+723537*
+1F F($
+
+723522*
+1F	 F(
+
+723523*
+1F+ F(;
+
+726437*
+1H H(
+
+726422*
+1H	 H(
+
+726423*
+1H H(+
+
+723540*
+1O	 O(
+
+726623*
+1O O(
+
+723540*
+1P	 P(
+
+725923*
+1P P(
+
+724340*
+1Q	 Q(
+
+724523*
+1Q	 Q(
+
+723540*
+1Q Q(#
+
+726823*
+1Q$ Q(4

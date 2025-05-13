@@ -1,0 +1,275 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150655108*java2.Bè
+M
+Hsrc/test/java/com/balitechy/spacewar/main/logic/entities/BulletTest.java2
+
+package4
+/
+*com.balitechy.spacewar.main.logic.entities5
+:
+5com.balitechy.spacewar.main.logic.entities.BulletTest7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+
+BulletTest12
+n
+hcom.balitechy.spacewar.main.logic.entities.BulletTest#dummyGame()Lcom/balitechy/spacewar/main/core/Game;14
+
+method15
+
+private16
+
+	dummyGame17
++
+%com.balitechy.spacewar.main.core.Game19
+
+unknown20
+
+returns21
+
+
+uses22
+
+calls23
+;
+5com.balitechy.spacewar.main.factory.SpriteGameFactory25
+=
+7com.balitechy.spacewar.main.logic.entities.BulletTest$127
+
+	protected28
+P
+Jcom.balitechy.spacewar.main.logic.entities.BulletTest#testBulletMovesUp()V30
+
+testBulletMovesUp31
+ 
+org.junit.jupiter.api.Test33
+
+annotated by34
+7
+1com.balitechy.spacewar.main.logic.entities.Bullet36
+
+is type37
+
+
+references38
+?
+9com.balitechy.spacewar.main.logic.entities.Bullet#getY()D40
+?
+9com.balitechy.spacewar.main.logic.entities.Bullet#tick()V42
+&
+ org.junit.jupiter.api.Assertions44
+G
+Aorg.junit.jupiter.api.Assertions#assertTrue(ZLjava/lang/String;)V46
+[
+Ucom.balitechy.spacewar.main.logic.entities.BulletTest#testInitialPositionIsCorrect()V48
+"
+testInitialPositionIsCorrect49
+8
+2org.junit.jupiter.api.Assertions#assertEquals(DD)V51
+?
+9com.balitechy.spacewar.main.logic.entities.Bullet#getX()D53J
+
+1
+12Z
+
+3	
+354jˇ
+@
+29:
+293015 *
+1 (26:3B
+	
+9
+10
+
+
+11
+31
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+18
+181920
+
+39
+394020
+@
+47:
+474815 *
+1$ $(26:3B
+	
+9
+10
+
+
+11
+49
+
+24
+242520
+
+45
+454620
+
+41
+414220
+4
+26.
+26278 *
+12 (3213:3B
+	
+9
+28
+
+32
+323320
+
+35
+353620
+
+50
+505120
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+
+43
+434420
+
+52
+525320r 
+
+131821*
+1 (
+
+131822*
+1 (
+
+131823*
+1 (
+
+132423*
+1 (.
+
+293234*
+1 (
+
+293222*
+1 (
+
+
+293537*
+1 (
+
+293522*
+1	 (
+
+293523*
+1 (#
+
+291821*
+1. (7
+
+29638*
+1. (7
+
+291323*
+1. (7
+
+293538*
+1 (!
+
+293923*
+1" (&
+
+293538*
+1 	  (
+
+294123*
+1   (
+
+294338*
+1!	 !(
+
+294523*
+1!	 !(
+
+293538*
+1! !(
+
+293923*
+1! !(
+
+473234*
+1$ $(
+
+473222*
+1$ $(
+
+
+473537*
+1& &(
+
+473522*
+1&	 &(
+
+473523*
+1& &(#
+
+471821*
+1&, &(5
+
+47638*
+1&, &(5
+
+471323*
+1&, &(5
+
+474338*
+1'	 '(
+
+475023*
+1'	 '(
+
+473538*
+1' '( 
+
+475223*
+1'! '(%
+
+474338*
+1(	 ((
+
+475023*
+1(	 ((
+
+473538*
+1( (( 
+
+473923*
+1(! ((%

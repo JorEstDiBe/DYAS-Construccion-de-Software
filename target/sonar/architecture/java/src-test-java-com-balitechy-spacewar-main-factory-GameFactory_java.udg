@@ -1,0 +1,178 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150654422*java2.BÓ
+
+G
+Bsrc/test/java/com/balitechy/spacewar/main/factory/GameFactory.java2
+
+package4
+(
+#com.balitechy.spacewar.main.factory5
+4
+/com.balitechy.spacewar.main.factory.GameFactory7
+
+	interface8
+
+access9
+
+public10
+
+simple name11
+
+GameFactory12
+¡
+šcom.balitechy.spacewar.main.factory.GameFactory#createPlayer(IILcom/balitechy/spacewar/main/core/Game;)Lcom/balitechy/spacewar/main/logic/entities/Player;14
+
+method15
+
+createPlayer16
+7
+1com.balitechy.spacewar.main.logic.entities.Player18
+
+unknown19
+
+returns20
++
+%com.balitechy.spacewar.main.core.Game22
+
+	has param23
+
+
+uses24
+
+is type25
+‹
+„com.balitechy.spacewar.main.factory.GameFactory#createBulletController()Lcom/balitechy/spacewar/main/logic/control/BulletController;27
+
+createBulletController28
+@
+:com.balitechy.spacewar.main.logic.control.BulletController30
+‹
+„com.balitechy.spacewar.main.factory.GameFactory#createBackgroundRenderer()Lcom/balitechy/spacewar/main/rendering/BackgroundRenderer;32
+
+createBackgroundRenderer33
+>
+8com.balitechy.spacewar.main.rendering.BackgroundRenderer35
+¥
+žcom.balitechy.spacewar.main.factory.GameFactory#createObstacle(IILcom/balitechy/spacewar/main/core/Game;)Lcom/balitechy/spacewar/main/logic/entities/Obstacle;37
+
+createObstacle38
+9
+3com.balitechy.spacewar.main.logic.entities.Obstacle40J
+
+1
+12Z
+
+3	
+354j§
+
+17
+171819
+@
+31:
+313215 *
+1 (26:3B
+	
+9
+10
+
+
+11
+33
+
+21
+212219
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+39
+394019
+
+34
+343519
+@
+36:
+363715 *
+1 (26:3B
+	
+9
+10
+
+
+11
+38
+
+29
+293019
+@
+26:
+262715 *
+1 (26:3B
+	
+9
+10
+
+
+11
+28
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16rú
+
+131720*
+1 (
+
+132123*
+1' (+
+
+131724*
+1 (
+
+132125*
+1, (0
+
+132124*
+1' (+
+
+262920*
+1 (
+
+262924*
+1 (
+
+313420*
+1 (
+
+313424*
+1 (
+
+363920*
+1 (
+
+362123*
+1+ (/
+
+363924*
+1 (
+
+362125*
+10 (4
+
+362124*
+1+ (/

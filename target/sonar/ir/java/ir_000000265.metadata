@@ -1,0 +1,7 @@
+com.balitechy.spacewar.main.logic.control.ObstacleController#instance-init#
+false
+2dad7b0d4428833c0a788c1c430978f3
+java.util.LinkedList#<init>()V
+java.util.LinkedList#instance-init#
+java.util.Random#<init>()V
+java.util.Random#instance-init#

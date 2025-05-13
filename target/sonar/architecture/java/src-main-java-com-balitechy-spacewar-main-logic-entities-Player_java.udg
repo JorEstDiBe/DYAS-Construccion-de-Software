@@ -1,0 +1,740 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150652889*java2.BÐ
+I
+Dsrc/main/java/com/balitechy/spacewar/main/logic/entities/Player.java2
+
+package4
+/
+*com.balitechy.spacewar.main.logic.entities5
+6
+1com.balitechy.spacewar.main.logic.entities.Player7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+Player12
+9
+3com.balitechy.spacewar.main.logic.entities.Player.x14
+
+field15
+
+	protected16
+
+x17
+9
+3com.balitechy.spacewar.main.logic.entities.Player.y19
+
+y20
+<
+6com.balitechy.spacewar.main.logic.entities.Player.velX22
+
+private23
+
+
+velX24
+<
+6com.balitechy.spacewar.main.logic.entities.Player.velY26
+
+
+velY27
+=
+7com.balitechy.spacewar.main.logic.entities.Player.WIDTH29
+
+WIDTH30
+>
+8com.balitechy.spacewar.main.logic.entities.Player.HEIGHT32
+
+HEIGHT33
+=
+7com.balitechy.spacewar.main.logic.entities.Player.image35
+
+image36
+<
+6com.balitechy.spacewar.main.logic.entities.Player.game38
+
+
+game39
++
+%com.balitechy.spacewar.main.core.Game41
+
+unknown42
+
+is type43
+
+
+uses44
+j
+dcom.balitechy.spacewar.main.logic.entities.Player#<init>(DDLcom/balitechy/spacewar/main/core/Game;)V46
+
+method47
+
+	has param48
+
+calls49
+
+
+references50
+A
+;com.balitechy.spacewar.main.rendering.ImageFlyweightFactory52
+€
+zcom.balitechy.spacewar.main.rendering.ImageFlyweightFactory#getImage(Ljava/lang/String;IIII)Ljava/awt/image/BufferedImage;54
+?
+9com.balitechy.spacewar.main.logic.entities.Player#getX()D56
+
+
+getX57
+@
+:com.balitechy.spacewar.main.logic.entities.Player#setX(D)V59
+
+
+setX60
+?
+9com.balitechy.spacewar.main.logic.entities.Player#getY()D62
+
+
+getY63
+@
+:com.balitechy.spacewar.main.logic.entities.Player#setY(D)V65
+
+
+setY66
+C
+=com.balitechy.spacewar.main.logic.entities.Player#setVelX(D)V68
+
+setVelX69
+C
+=com.balitechy.spacewar.main.logic.entities.Player#setVelY(D)V71
+
+setVelY72
+@
+:com.balitechy.spacewar.main.logic.entities.Player#shoot()V74
+
+shoot75
+=
+7com.balitechy.spacewar.main.logic.entities.VectorPlayer77
+=
+7com.balitechy.spacewar.main.logic.entities.VectorBullet79
+@
+:com.balitechy.spacewar.main.logic.control.BulletController81
+ˆ
+com.balitechy.spacewar.main.logic.control.BulletController#addBulletV(Lcom/balitechy/spacewar/main/logic/entities/VectorBullet;)V83
+
+returns84
+t
+ncom.balitechy.spacewar.main.core.Game#getBullets()Lcom/balitechy/spacewar/main/logic/control/BulletController;86
+7
+1com.balitechy.spacewar.main.logic.entities.Bullet88
+€
+zcom.balitechy.spacewar.main.logic.control.BulletController#addBullet(Lcom/balitechy/spacewar/main/logic/entities/Bullet;)V90
+?
+9com.balitechy.spacewar.main.logic.entities.Player#tick()V92
+
+
+tick93
+1
++com.balitechy.spacewar.main.core.Game.WIDTH95
+1
++com.balitechy.spacewar.main.core.Game.SCALE97
+2
+,com.balitechy.spacewar.main.core.Game.HEIGHT99
+U
+Ncom.balitechy.spacewar.main.logic.entities.Player#render(Ljava/awt/Graphics;)V101
+
+render102J
+
+1
+12Z
+
+3	
+354jç
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+73:
+737447 *
+1> >(26:3B
+	
+9
+10
+
+
+11
+75
+
+51
+515242
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+
+53
+535442
+@
+58:
+585947 *
+1* *(26:3B
+	
+9
+10
+
+
+11
+60
+@
+37:
+373815 *
+1 (	26:3B
+	
+9
+16
+
+
+11
+39
+@
+61:
+616247 *
+1. .(26:3B
+	
+9
+10
+
+
+11
+63
+@
+28:
+282915 *
+1 (26:3B
+	
+9
+10
+
+
+11
+30
+@
+70:
+707147 *
+1: :(26:3B
+	
+9
+10
+
+
+11
+72
+
+98
+989942
+
+96
+969742
+@
+25:
+252615 *
+1 (26:3B
+	
+9
+23
+
+
+11
+27
+
+89
+899042
+@
+21:
+212215 *
+1 (26:3B
+	
+9
+23
+
+
+11
+24
+@
+64:
+646547 *
+12 2(26:3B
+	
+9
+10
+
+
+11
+66
+
+80
+808142
+D
+100=
+10010147 *
+1] ](26:3B
+	
+9
+10
+
+11
+102
+@
+31:
+313215 *
+1 (26:3B
+	
+9
+10
+
+
+11
+33
+
+40
+404142
+@
+91:
+919247 *
+1J J(26:3B
+	
+9
+10
+
+
+11
+93
+@
+55:
+555647 *
+1& &(26:3B
+	
+9
+10
+
+
+11
+57
+@
+34:
+343515 *
+1 (26:3B
+	
+9
+23
+
+
+11
+36
+9
+64
+678 *
+1
+ 
+(:3B
+	
+9
+10
+
+
+11
+12
+
+94
+949542
+
+87
+878842
+@
+45:
+454647 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+82
+828342
+
+85
+858642
+
+76
+767742
+
+78
+787942
+@
+67:
+676847 *
+16 6(26:3B
+	
+9
+10
+
+
+11
+69rŸ
+
+374043*
+1 (	
+
+374044*
+1 (	
+
+374044*
+1
+ (
+
+454048*
+1' (+
+
+45649*
+1 (
+
+454043*
+1, (0
+
+454044*
+1' (+
+
+45644*
+1	 (
+
+45650*
+1	 (
+
+451350*
+1 (
+
+45644*
+1	 (
+
+45650*
+1	 (
+
+451850*
+1 (
+
+45644*
+1	 (
+
+45650*
+1	 (
+
+454044*
+1 (
+
+453750*
+1 (
+
+453450*
+1 (
+
+455150*
+1 (*
+
+455349*
+1+ (3
+
+455144*
+1 (*
+
+452850*
+1N (S
+
+453150*
+1U ([
+
+551350*
+1' '(
+
+58644*
+1+	 +(
+
+58650*
+1+	 +(
+
+581350*
+1+ +(
+
+611850*
+1/ /(
+
+64644*
+13	 3(
+
+64650*
+13	 3(
+
+641850*
+13 3(
+
+67644*
+17	 7(
+
+67650*
+17	 7(
+
+672150*
+17 7(
+
+70644*
+1;	 ;(
+
+70650*
+1;	 ;(
+
+702550*
+1; ;(
+
+73644*
+1? ?(
+
+73650*
+1? ?(
+
+737644*
+1? ?()
+
+737843*
+1A A(&
+
+737844*
+1A A(
+
+737849*
+1A- A(9
+
+73644*
+1A: A(>
+
+73650*
+1A: A(>
+
+731350*
+1A? A(@
+
+73644*
+1AB A(F
+
+73650*
+1AB A(F
+
+731850*
+1AG A(H
+
+738050*
+1B B(
+
+738249*
+1B B()
+
+738084*
+1B B(
+
+734050*
+1B B(
+
+738549*
+1B B(
+
+733750*
+1B B(
+
+734044*
+1B B(
+
+733750*
+1B B(
+
+738743*
+1E E(
+
+738744*
+1E E(
+
+738749*
+1E! E('
+
+73644*
+1E( E(,
+
+73650*
+1E( E(,
+
+731350*
+1E- E(.
+
+73644*
+1E0 E(4
+
+73650*
+1E0 E(4
+
+731850*
+1E5 E(6
+
+734044*
+1E8 E(<
+
+733750*
+1E8 E(<
+
+738050*
+1F F(
+
+738949*
+1F F((
+
+738084*
+1F F(
+
+734050*
+1F F(
+
+738549*
+1F F(
+
+733750*
+1F F(
+
+734044*
+1F F(
+
+733750*
+1F F(
+
+911350*
+1K	 K(
+
+
+912150*
+1K K(
+
+911850*
+1L	 L(
+
+
+912550*
+1L L(
+
+911350*
+1O O(
+
+911350*
+1P P(
+
+911350*
+1R R(
+
+914044*
+1R R(
+
+919450*
+1R R(
+
+914044*
+1R  R($
+
+919650*
+1R% R(*
+
+912850*
+1R. R(3
+
+911350*
+1S S(
+
+914044*
+1S S(
+
+919450*
+1S S(
+
+914044*
+1S S(#
+
+919650*
+1S$ S()
+
+912850*
+1S- S(2
+
+911850*
+1U U(
+
+911850*
+1V V(
+
+911850*
+1X X(
+
+914044*
+1X X(
+
+919850*
+1X X(
+
+914044*
+1X! X(%
+
+919650*
+1X& X(+
+
+913150*
+1X/ X(5
+
+911850*
+1Y Y(
+
+914044*
+1Y Y(
+
+919850*
+1Y Y(
+
+914044*
+1Y  Y($
+
+919650*
+1Y% Y(*
+
+913150*
+1Y. Y(4
+
+1003450*
+1_ _(
+
+1001350*
+1_" _(#
+
+1001850*
+1_+ _(,

@@ -1,0 +1,17 @@
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\core\Game.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\factory\GameFactory.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\factory\SpriteGameFactory.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\factory\VectorGameFactory.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\input\InputHandler.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\logic\control\BulletController.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\logic\control\ObstacleController.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\logic\entities\Bullet.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\logic\entities\Obstacle.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\logic\entities\Player.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\logic\entities\SpriteObstacle.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\logic\entities\VectorBullet.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\logic\entities\VectorObstacle.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\logic\entities\VectorPlayer.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\rendering\BackgroundRenderer.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\rendering\ImageFlyweightFactory.java
+C:\UNI\Microsoft VS Code\DYAS-Construccion-de-Software-analisis\src\main\java\com\balitechy\spacewar\main\rendering\SpritesImageLoader.java

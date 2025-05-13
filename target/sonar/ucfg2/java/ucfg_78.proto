@@ -1,0 +1,203 @@
+
+zcom.balitechy.spacewar.main.rendering.ImageFlyweightFactory#getImage(Ljava/lang/String;IIII)Ljava/awt/image/BufferedImage;ô
+éC:/UNI/Microsoft VS Code/DYAS-Construccion-de-Software-analisis/src/main/java/com/balitechy/spacewar/main/rendering/ImageFlyweightFactory.java  (("3*ª
+2? (CàÖ
+, (>?
+%108com.balitechy.spacewar.main.rendering.SpritesImageLoader"8com.balitechy.spacewar.main.rendering.SpritesImageLoaderÅ
+˛
+( (D
+%11"Tcom.balitechy.spacewar.main.rendering.SpritesImageLoader#<init>(Ljava/lang/String;)V*]
+
+__unknown_file (A
+?
+%108com.balitechy.spacewar.main.rendering.SpritesImageLoader*6
+
+__unknown_file (
+
+pathjava.lang.String∂
+≥
+ (EB
+loader8com.balitechy.spacewar.main.rendering.SpritesImageLoader"__id*]
+
+__unknown_file (A
+?
+%108com.balitechy.spacewar.main.rendering.SpritesImageLoaderÖÇ
+ (#
+%12java.awt.image.BufferedImage"bcom.balitechy.spacewar.main.rendering.SpritesImageLoader#loadImage()Ljava/awt/image/BufferedImage;*`
+
+__unknown_file (D
+B
+loader8com.balitechy.spacewar.main.rendering.SpritesImageLoader2loadImage()õò
+" (F#
+%13java.awt.image.BufferedImage"ecom.balitechy.spacewar.main.rendering.SpritesImageLoader#getImage(IIII)Ljava/awt/image/BufferedImage;*`
+
+__unknown_file (D
+B
+loader8com.balitechy.spacewar.main.rendering.SpritesImageLoader*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2getImage(IIII)|
+z
+ (G%
+imagejava.awt.image.BufferedImage"__id*A
+
+__unknown_file (%
+#
+%13java.awt.image.BufferedImageL
+J
+ (
+%14java.util.Map"__id*"
+
+__unknown_file (
+""Ï
+È
+ (&#
+%15java.awt.image.BufferedImage"__mapSet*2
+
+__unknown_file (
+
+%14java.util.Map*5
+
+__unknown_file (
+
+keyjava.lang.String*C
+
+__unknown_file ('
+%
+imagejava.awt.image.BufferedImage*
+1*Ì	
+3 (i
+g
+ (
+%0java.lang.String"__concat*&
+ (
+
+pathjava.lang.String*
+ (
+:h
+f
+ (#
+%1java.lang.String"__concat*$
+ (
+
+%0java.lang.String*
+" (#
+""g
+e
+ ()
+%2java.lang.String"__concat*$
+ (#
+
+%1java.lang.String*
+& ()
+:h
+f
+ (-
+%3java.lang.String"__concat*$
+ ()
+
+%2java.lang.String*
+, (-
+""g
+e
+ (3
+%4java.lang.String"__concat*$
+ (-
+
+%3java.lang.String*
+0 (3
+:h
+f
+ (;
+%5java.lang.String"__concat*$
+ (3
+
+%4java.lang.String*
+6 (;
+""g
+e
+ (A
+%6java.lang.String"__concat*$
+ (;
+
+%5java.lang.String*
+> (A
+:h
+f
+ (J
+%7java.lang.String"__concat*$
+ (A
+
+%6java.lang.String*
+D (J
+""a
+_
+ (K
+keyjava.lang.String"__id*4
+
+__unknown_file (
+
+%7java.lang.StringK
+I
+ (
+%8java.util.Map"__id*"
+
+__unknown_file (
+""◊‘
+ ((
+%9boolean".java.util.Map#containsKey(Ljava/lang/Object;)Z*1
+
+__unknown_file (
+
+%8java.util.Map*5
+
+__unknown_file (
+
+keyjava.lang.String2containsKey(Ljava/lang/Object;)*
+2
+1*∏
+1 (L
+J
+ (
+%16java.util.Map"__id*"
+
+__unknown_file (
+""ß
+§
+ ("#
+%17java.awt.image.BufferedImage"__mapGet*2
+
+__unknown_file (
+
+%16java.util.Map*5
+
+__unknown_file (
+
+keyjava.lang.String"1
+ (#%
+#
+%17java.awt.image.BufferedImage:$
+) (5
+pathjava.lang.String: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B?"=
+;com.balitechy.spacewar.main.rendering.ImageFlyweightFactoryH

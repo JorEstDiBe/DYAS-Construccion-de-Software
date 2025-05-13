@@ -1,0 +1,7 @@
+organization=juandmaes1
+projectKey=juandmaes1_DYAS-Construccion-de-Software
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.63258
+dashboardUrl=https://sonarcloud.io/dashboard?id=juandmaes1_DYAS-Construccion-de-Software
+ceTaskId=AZbKS3SlmhHE_8pm5i_2
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZbKS3SlmhHE_8pm5i_2

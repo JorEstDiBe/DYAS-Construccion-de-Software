@@ -1,0 +1,55 @@
+
+†com.balitechy.spacewar.main.factory.SpriteGameFactory#createPlayer(IILcom/balitechy/spacewar/main/core/Game;)Lcom/balitechy/spacewar/main/logic/entities/Player;ì
+àC:/UNI/Microsoft VS Code/DYAS-Construccion-de-Software-analisis/src/main/java/com/balitechy/spacewar/main/factory/SpriteGameFactory.java ("startingBlock*∞
+startingBlock (7†
+ù
+ (
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*K
+
+__unknown_file (/
+-
+game%com.balitechy.spacewar.main.core.Gamem
+k
+2 (6-
+game%com.balitechy.spacewar.main.core.Game"__annotation*"
+
+__unknown_file (
+
+%2*
+1*∂
+1 (xv
+ (7
+%01com.balitechy.spacewar.main.logic.entities.Player"1com.balitechy.spacewar.main.logic.entities.PlayerÂ
+‚
+ (%
+%1"dcom.balitechy.spacewar.main.logic.entities.Player#<init>(DDLcom/balitechy/spacewar/main/core/Game;)V*U
+
+__unknown_file (9
+7
+%01com.balitechy.spacewar.main.logic.entities.Player*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*K
+
+__unknown_file (/
+-
+game%com.balitechy.spacewar.main.core.Game"E
+ (&9
+7
+%01com.balitechy.spacewar.main.logic.entities.Player: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"":9
+- (6-
+game%com.balitechy.spacewar.main.core.GameB97
+5com.balitechy.spacewar.main.factory.SpriteGameFactoryH

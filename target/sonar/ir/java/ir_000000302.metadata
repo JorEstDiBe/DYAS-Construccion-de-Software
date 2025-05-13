@@ -1,0 +1,8 @@
+com.balitechy.spacewar.main.rendering.BackgroundRenderer#renderS(Ljava/awt/Graphics;Ljava/awt/Canvas;)V
+false
+8dc8a844a0fe7ce24227e944045f1987
+com.balitechy.spacewar.main.rendering.ImageFlyweightFactory#getImage(Ljava/lang/String;IIII)Ljava/awt/image/BufferedImage;
+==
+drawImage java.awt.Graphics#drawImage(Ljava/awt/Image;IIIILjava/awt/image/ImageObserver;)Z
+getHeight java.awt.Component#getHeight()I
+getWidth java.awt.Component#getWidth()I

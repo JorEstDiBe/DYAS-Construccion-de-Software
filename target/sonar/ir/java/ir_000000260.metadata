@@ -1,0 +1,11 @@
+com.balitechy.spacewar.main.logic.entities.Player#shoot()V
+false
+bb626cec45540b3f9f68493928f7f1d2
+com.balitechy.spacewar.main.logic.entities.Bullet#<init>(DDLcom/balitechy/spacewar/main/core/Game;)V
+com.balitechy.spacewar.main.logic.entities.Bullet#instance-init#
+com.balitechy.spacewar.main.logic.entities.VectorBullet#<init>(DD)V
+com.balitechy.spacewar.main.logic.entities.VectorBullet#instance-init#
+==
+addBullet com.balitechy.spacewar.main.logic.control.BulletController#addBullet(Lcom/balitechy/spacewar/main/logic/entities/Bullet;)V
+addBulletV com.balitechy.spacewar.main.logic.control.BulletController#addBulletV(Lcom/balitechy/spacewar/main/logic/entities/VectorBullet;)V
+getBullets com.balitechy.spacewar.main.core.Game#getBullets()Lcom/balitechy/spacewar/main/logic/control/BulletController;

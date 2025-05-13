@@ -1,0 +1,11 @@
+com.balitechy.spacewar.main.core.Game#run()V
+false
+0b4ac54717e1814e2f7a712a505f0e24
+com.balitechy.spacewar.main.core.Game#stop()V
+java.lang.System#currentTimeMillis()J
+java.lang.System#nanoTime()J
+==
+init com.balitechy.spacewar.main.core.Game#init()V
+println java.io.PrintStream#println(Ljava/lang/String;)V
+render com.balitechy.spacewar.main.core.Game#render()V
+tick com.balitechy.spacewar.main.core.Game#tick()V

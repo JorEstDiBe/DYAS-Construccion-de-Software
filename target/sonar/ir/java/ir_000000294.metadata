@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.logic.control.BulletController#removeBullet(Lcom/balitechy/spacewar/main/logic/entities/Bullet;)V
+false
+07192a9fda0f0fabe11643de8a6c6484
+==
+remove java.util.LinkedList#remove(Ljava/lang/Object;)Z

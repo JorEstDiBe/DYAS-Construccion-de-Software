@@ -1,0 +1,496 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150654764*java2.BΩ
+T
+Osrc/test/java/com/balitechy/spacewar/main/logic/control/ObstacleController.java2
+
+package4
+.
+)com.balitechy.spacewar.main.logic.control5
+A
+<com.balitechy.spacewar.main.logic.control.ObstacleController7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+ObstacleController12
+L
+Fcom.balitechy.spacewar.main.logic.control.ObstacleController.obstacles14
+
+field15
+
+private16
+
+	obstacles17
+9
+3com.balitechy.spacewar.main.logic.entities.Obstacle19
+
+unknown20
+
+
+uses21
+I
+Ccom.balitechy.spacewar.main.logic.control.ObstacleController.random23
+
+random24
+M
+Gcom.balitechy.spacewar.main.logic.control.ObstacleController.spawnTimer26
+
+
+spawnTimer27
+P
+Jcom.balitechy.spacewar.main.logic.control.ObstacleController.spawnInterval29
+
+spawnInterval30
+G
+Acom.balitechy.spacewar.main.logic.control.ObstacleController.game32
+
+
+game33
++
+%com.balitechy.spacewar.main.core.Game35
+
+is type36
+s
+mcom.balitechy.spacewar.main.logic.control.ObstacleController#<init>(Lcom/balitechy/spacewar/main/core/Game;)V38
+
+method39
+
+	has param40
+
+calls41
+
+
+references42
+J
+Dcom.balitechy.spacewar.main.logic.control.ObstacleController#tick()V44
+
+
+tick45
+S
+Mcom.balitechy.spacewar.main.logic.control.ObstacleController#spawnObstacle()V47
+
+returns48
+A
+;com.balitechy.spacewar.main.logic.entities.Obstacle#tick()V50
+A
+;com.balitechy.spacewar.main.logic.entities.Obstacle#getY()D52
+2
+,com.balitechy.spacewar.main.core.Game.HEIGHT54
+1
++com.balitechy.spacewar.main.core.Game.SCALE56
+_
+Ycom.balitechy.spacewar.main.logic.control.ObstacleController#render(Ljava/awt/Graphics;)V58
+
+render59
+V
+Pcom.balitechy.spacewar.main.logic.entities.Obstacle#render(Ljava/awt/Graphics;)V61
+
+spawnObstacle62
+1
++com.balitechy.spacewar.main.core.Game.WIDTH64
+?
+9com.balitechy.spacewar.main.logic.entities.Obstacle.WIDTH66
+5
+/com.balitechy.spacewar.main.factory.GameFactory68
+•
+ûcom.balitechy.spacewar.main.factory.GameFactory#createObstacle(IILcom/balitechy/spacewar/main/core/Game;)Lcom/balitechy/spacewar/main/logic/entities/Obstacle;70
+i
+ccom.balitechy.spacewar.main.core.Game#getFactory()Lcom/balitechy/spacewar/main/factory/GameFactory;72
+@
+:com.balitechy.spacewar.main.logic.entities.Obstacle.HEIGHT74
+g
+acom.balitechy.spacewar.main.logic.control.ObstacleController#getObstacles()Ljava/util/LinkedList;76
+
+getObstacles77
+K
+Ecom.balitechy.spacewar.main.logic.control.ObstacleController#clear()V79
+
+clear80J
+
+1
+12Z
+
+3	
+354jï
+@
+13:
+131415 *
+1
+ 
+(26:3B
+	
+9
+16
+
+
+11
+17
+
+51
+515220
+
+67
+676820
+@
+57:
+575839 *
+1) )(26:3B
+	
+9
+10
+
+
+11
+59
+@
+22:
+222315 *
+1 (26:3B
+	
+9
+16
+
+
+11
+24
+
+69
+697020
+
+53
+535420
+@
+43:
+434439 *
+1 (26:3B
+	
+9
+10
+
+
+11
+45
+@
+31:
+313215 *
+1 (26:3B
+	
+9
+16
+
+
+11
+33
+
+55
+555620
+
+71
+717220
+9
+64
+678 *
+1	 	( :3B
+	
+9
+10
+
+
+11
+12
+@
+28:
+282915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+30
+@
+37:
+373839 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+65
+656620
+
+34
+343520
+
+49
+495020
+@
+78:
+787939 *
+18 8(26:3B
+	
+9
+10
+
+
+11
+80
+@
+46:
+464739 *
+1/ /(26:3B
+	
+9
+16
+
+
+11
+62
+
+73
+737420
+@
+75:
+757639 *
+14 4(26:3B
+	
+9
+10
+
+
+11
+77
+@
+25:
+252615 *
+1 (26:3B
+	
+9
+16
+
+
+11
+27
+
+63
+636420
+
+18
+181920
+
+60
+606120rç
+
+131821*
+1
+ 
+( 
+
+313436*
+1 (
+
+313421*
+1 (
+
+313421*
+1 (
+
+373440*
+1 (#
+
+37641*
+1 (
+
+373436*
+1$ ((
+
+373421*
+1 (#
+
+37621*
+1	 (
+
+37642*
+1	 (
+
+373421*
+1 (
+
+373142*
+1 (
+
+432542*
+1	 (
+
+432542*
+1 (
+
+432842*
+1 ('
+
+432542*
+1 (
+
+43642*
+1 (
+
+434641*
+1 (
+
+431342*
+1 (%
+
+431342*
+1 (%
+
+431836*
+1 (
+
+431821*
+1 (
+
+431848*
+1! (*
+
+431342*
+1! (*
+
+431342*
+1! (*
+
+431842*
+1 (
+
+434941*
+1 (
+
+431842*
+1" "(
+
+435141*
+1" "(
+
+433421*
+1"" "(&
+
+435342*
+1"' "(-
+
+433421*
+1"0 "(4
+
+435542*
+1"5 "(:
+
+431342*
+1# #(
+
+431342*
+1# #(
+
+571836*
+1* *(
+
+571821*
+1* *(
+
+571342*
+1*! *(*
+
+571842*
+1+ +(
+
+576041*
+1+ +(
+
+462242*
+10 0(
+
+462242*
+10 0(
+
+463421*
+10  0($
+
+466342*
+10% 0(*
+
+463421*
+10- 0(1
+
+465542*
+102 0(7
+
+461821*
+10: 0(B
+
+466542*
+10C 0(H
+
+461342*
+11	 1(
+
+461342*
+11	 1(
+
+461848*
+11 1(
+
+466742*
+11 1(
+
+466941*
+11) 1(7
+
+466748*
+11 1(
+
+463442*
+11 1(
+
+467141*
+11 1(&
+
+463142*
+11 1(
+
+463421*
+11 1(
+
+463142*
+11 1(
+
+461821*
+11< 1(D
+
+467342*
+11E 1(K
+
+463421*
+11M 1(Q
+
+463142*
+11M 1(Q
+
+751821*
+14 4(
+
+751342*
+15 5(
+
+781342*
+19	 9(
+
+781342*
+19	 9(

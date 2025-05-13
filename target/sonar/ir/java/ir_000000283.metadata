@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.logic.entities.VectorPlayer#<init>(IILcom/balitechy/spacewar/main/core/Game;)V
+false
+06bc0ea7c8553f192308326b7a5f4dc3
+==
+<init> com.balitechy.spacewar.main.logic.entities.Player#<init>(DDLcom/balitechy/spacewar/main/core/Game;)V
