@@ -1,0 +1,35 @@
+name: Java CI/CD
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Java
+      uses: actions/setup-java@v3
+      with:
+        distribution: 'temurin'
+        java-version: '17'
+
+    - name: Build with Maven
+      run: mvn -B clean install
+
+    - name: Run Unit Tests
+      run: mvn test
+
+  deploy-simulation:
+    needs: build-and-test
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Simulate Deployment
+      run: echo "✅ Despliegue simulado del sistema aprobado"

@@ -1,17 +1,17 @@
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\rendering\SpritesImageLoader.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\logic\control\BulletController.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\logic\control\ObstacleController.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\factory\GameFactory.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\rendering\ImageFlyweightFactory.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\logic\entities\SpriteObstacle.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\factory\VectorGameFactory.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\logic\entities\Bullet.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\logic\entities\VectorObstacle.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\factory\SpriteGameFactory.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\logic\entities\Obstacle.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\rendering\BackgroundRenderer.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\input\InputHandler.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\logic\entities\VectorPlayer.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\logic\entities\VectorBullet.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\core\Game.java
-D:\Downloads\version2\DYAS-GoF-CreationalPatterns-main\src\main\java\com\balitechy\spacewar\main\logic\entities\Player.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\logic\entities\Player.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\logic\entities\Bullet.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\rendering\BackgroundRenderer.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\logic\entities\VectorObstacle.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\factory\GameFactory.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\factory\SpriteGameFactory.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\factory\VectorGameFactory.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\logic\control\BulletController.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\rendering\SpritesImageLoader.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\logic\entities\VectorBullet.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\input\InputHandler.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\logic\control\ObstacleController.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\rendering\ImageFlyweightFactory.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\core\Game.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\logic\entities\SpriteObstacle.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\logic\entities\VectorPlayer.java
+D:\Documents\TRABAJOS ESTEBAN\Diseño Arquitectura de Software\DYAS-Construccion-de-Software\DYAS-Construccion-de-Software\src\main\java\com\balitechy\spacewar\main\logic\entities\Obstacle.java
