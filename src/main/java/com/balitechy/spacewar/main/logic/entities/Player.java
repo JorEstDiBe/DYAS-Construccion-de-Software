@@ -19,7 +19,7 @@ public class Player {
     public static final int HEIGHT = 28;
 
     private BufferedImage image;
-    private Game game;
+    Game game;
 
     public Player(double x, double y, Game game) {
         this.x = x;
