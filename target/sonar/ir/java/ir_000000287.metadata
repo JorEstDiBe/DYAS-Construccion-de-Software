@@ -1,0 +1,8 @@
+com.balitechy.spacewar.main.input.InputHandler#keyPressed(Ljava/awt/event/KeyEvent;)V
+false
+26badf2d7c3a854193e74911746f91f0
+==
+getKeyCode java.awt.event.KeyEvent#getKeyCode()I
+isGameOver com.balitechy.spacewar.main.core.Game#isGameOver()Z
+keyPressed com.balitechy.spacewar.main.core.Game#keyPressed(Ljava/awt/event/KeyEvent;)V
+resetGame com.balitechy.spacewar.main.core.Game#resetGame()V

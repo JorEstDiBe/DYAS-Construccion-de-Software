@@ -1,0 +1,7 @@
+com.balitechy.spacewar.main.logic.entities.SpriteObstacle#<init>(IILcom/balitechy/spacewar/main/core/Game;)V
+false
+231d2b31ea3928a53dc5549960031aa6
+==
+<init> com.balitechy.spacewar.main.logic.entities.Obstacle#<init>(DD)V
+getImage com.balitechy.spacewar.main.rendering.SpritesImageLoader#getImage(IIII)Ljava/awt/image/BufferedImage;
+getSprites com.balitechy.spacewar.main.core.Game#getSprites()Lcom/balitechy/spacewar/main/rendering/SpritesImageLoader;

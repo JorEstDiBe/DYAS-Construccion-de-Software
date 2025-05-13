@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.factory.VectorGameFactory#createBackgroundRenderer()Lcom/balitechy/spacewar/main/rendering/BackgroundRenderer;
+false
+548089440c192d9883d9883d89a10df0
+com.balitechy.spacewar.main.rendering.BackgroundRenderer#<init>(Z)V
+com.balitechy.spacewar.main.rendering.BackgroundRenderer#instance-init#

@@ -1,0 +1,196 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150653331*java2.B‹
+O
+Jsrc/main/java/com/balitechy/spacewar/main/logic/entities/VectorPlayer.java2
+
+package4
+/
+*com.balitechy.spacewar.main.logic.entities5
+<
+7com.balitechy.spacewar.main.logic.entities.VectorPlayer7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+VectorPlayer12
+7
+1com.balitechy.spacewar.main.logic.entities.Player14
+
+unknown15
+
+extends16
+
+
+uses17
+B
+<com.balitechy.spacewar.main.logic.entities.VectorPlayer.SIZE19
+
+field20
+
+private21
+
+
+SIZE22
+D
+>com.balitechy.spacewar.main.logic.entities.VectorPlayer.HEIGHT24
+
+HEIGHT25
+p
+jcom.balitechy.spacewar.main.logic.entities.VectorPlayer#<init>(IILcom/balitechy/spacewar/main/core/Game;)V27
+
+method28
++
+%com.balitechy.spacewar.main.core.Game30
+
+	has param31
+
+calls32
+
+is type33
+
+
+references34
+Z
+Tcom.balitechy.spacewar.main.logic.entities.VectorPlayer#render(Ljava/awt/Graphics;)V36
+
+render37
+9
+3com.balitechy.spacewar.main.logic.entities.Player.x39
+9
+3com.balitechy.spacewar.main.logic.entities.Player.y41J
+
+1
+12Z
+
+3	
+354j“
+
+13
+131415
+
+29
+293015
+
+38
+383915
+@
+23:
+232420 *
+1 (26:3B
+	
+9
+21
+
+
+11
+25
+
+40
+404115
+@
+35:
+353628 *
+1 (26:3B
+	
+9
+10
+
+
+11
+37
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+26:
+262728 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22rþ
+
+61316*
+1# ()
+
+61317*
+1# ()
+
+262931*
+1' (+
+
+26632*
+1 (
+
+262933*
+1, (0
+
+262917*
+1' (+
+
+261334*
+1	 (
+
+261332*
+1	 (
+
+261332*
+1	 (
+
+353834*
+1 (
+
+353834*
+1! ("
+
+351834*
+1% ()
+
+353834*
+11 (2
+
+351834*
+15 (9
+
+354034*
+1 (
+
+354034*
+1! ("
+
+352334*
+1% (+
+
+354034*
+1- (.
+
+352334*
+11 (7

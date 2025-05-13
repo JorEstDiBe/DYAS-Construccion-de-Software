@@ -1,0 +1,9 @@
+com.balitechy.spacewar.main.rendering.BackgroundRenderer#renderV(Ljava/awt/Graphics;Ljava/awt/Canvas;)V
+false
+d172270a05d50f02272fb05551e90171
+==
+drawOval java.awt.Graphics#drawOval(IIII)V
+fillRect java.awt.Graphics#fillRect(IIII)V
+getHeight java.awt.Component#getHeight()I
+getWidth java.awt.Component#getWidth()I
+setColor java.awt.Graphics#setColor(Ljava/awt/Color;)V

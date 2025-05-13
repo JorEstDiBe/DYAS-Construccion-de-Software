@@ -1,0 +1,51 @@
+
+§com.balitechy.spacewar.main.factory.VectorGameFactory#createObstacle(IILcom/balitechy/spacewar/main/core/Game;)Lcom/balitechy/spacewar/main/logic/entities/Obstacle;ì
+àC:/UNI/Microsoft VS Code/DYAS-Construccion-de-Software-analisis/src/main/java/com/balitechy/spacewar/main/factory/VectorGameFactory.java% %(""startingBlock*∞
+startingBlock%" %(;†
+ù
+$ $(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*K
+
+__unknown_file (/
+-
+game%com.balitechy.spacewar.main.core.Gamem
+k
+%6 %(:-
+game%com.balitechy.spacewar.main.core.Game"__annotation*"
+
+__unknown_file (
+
+%2*
+1*Ï
+1&" &(#âÜ
+& &(!?
+%09com.balitechy.spacewar.main.logic.entities.VectorObstacle"9com.balitechy.spacewar.main.logic.entities.VectorObstacleÅ
+˛
+& &('
+%1"Ecom.balitechy.spacewar.main.logic.entities.VectorObstacle#<init>(II)V*]
+
+__unknown_file (A
+?
+%09com.balitechy.spacewar.main.logic.entities.VectorObstacle*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""M
+& &((A
+?
+%09com.balitechy.spacewar.main.logic.entities.VectorObstacle: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"":9
+%1 %(:-
+game%com.balitechy.spacewar.main.core.GameB97
+5com.balitechy.spacewar.main.factory.VectorGameFactoryH

@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.factory.VectorGameFactory#createPlayer(IILcom/balitechy/spacewar/main/core/Game;)Lcom/balitechy/spacewar/main/logic/entities/Player;
+false
+38fed74d8bdb233848e996a4e89978a6
+com.balitechy.spacewar.main.logic.entities.VectorPlayer#<init>(IILcom/balitechy/spacewar/main/core/Game;)V
+com.balitechy.spacewar.main.logic.entities.VectorPlayer#instance-init#

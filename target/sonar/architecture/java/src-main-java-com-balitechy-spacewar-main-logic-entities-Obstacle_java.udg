@@ -1,0 +1,449 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150653246*java2.BÒ
+K
+Fsrc/main/java/com/balitechy/spacewar/main/logic/entities/Obstacle.java2
+
+package4
+/
+*com.balitechy.spacewar.main.logic.entities5
+8
+3com.balitechy.spacewar.main.logic.entities.Obstacle7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+Obstacle12
+;
+5com.balitechy.spacewar.main.logic.entities.Obstacle.x14
+
+field15
+
+	protected16
+
+x17
+;
+5com.balitechy.spacewar.main.logic.entities.Obstacle.y19
+
+y20
+?
+9com.balitechy.spacewar.main.logic.entities.Obstacle.WIDTH22
+
+WIDTH23
+@
+:com.balitechy.spacewar.main.logic.entities.Obstacle.HEIGHT25
+
+HEIGHT26
+?
+9com.balitechy.spacewar.main.logic.entities.Obstacle.speed28
+
+private29
+
+speed30
+E
+?com.balitechy.spacewar.main.logic.entities.Obstacle#<init>(DD)V32
+
+method33
+
+calls34
+
+
+uses35
+
+
+references36
+A
+;com.balitechy.spacewar.main.logic.entities.Obstacle#tick()V38
+
+
+tick39
+V
+Pcom.balitechy.spacewar.main.logic.entities.Obstacle#render(Ljava/awt/Graphics;)V41
+
+render42
+|
+vcom.balitechy.spacewar.main.logic.entities.Obstacle#collidesWith(Lcom/balitechy/spacewar/main/logic/entities/Player;)Z44
+
+collidesWith45
+7
+1com.balitechy.spacewar.main.logic.entities.Player47
+
+unknown48
+
+	has param49
+
+is type50
+?
+9com.balitechy.spacewar.main.logic.entities.Player#getX()D52
+=
+7com.balitechy.spacewar.main.logic.entities.Player.WIDTH54
+?
+9com.balitechy.spacewar.main.logic.entities.Player#getY()D56
+>
+8com.balitechy.spacewar.main.logic.entities.Player.HEIGHT58
+A
+;com.balitechy.spacewar.main.logic.entities.Obstacle#getX()D60
+
+
+getX61
+B
+<com.balitechy.spacewar.main.logic.entities.Obstacle#setX(D)V63
+
+
+setX64
+A
+;com.balitechy.spacewar.main.logic.entities.Obstacle#getY()D66
+
+
+getY67
+B
+<com.balitechy.spacewar.main.logic.entities.Obstacle#setY(D)V69
+
+
+setY70
+E
+?com.balitechy.spacewar.main.logic.entities.Obstacle#getSpeed()I72
+
+getSpeed73
+F
+@com.balitechy.spacewar.main.logic.entities.Obstacle#setSpeed(I)V75
+
+setSpeed76J
+
+1
+12Z
+
+3	
+354jý
+@
+21:
+212215 *
+1 (26:3B
+	
+9
+10
+
+
+11
+23
+@
+37:
+373833 *
+1 (26:3B
+	
+9
+10
+
+
+11
+39
+
+57
+575848
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+@
+59:
+596033 *
+1( ((26:3B
+	
+9
+10
+
+
+11
+61
+@
+71:
+717233 *
+18 8(26:3B
+	
+9
+10
+
+
+11
+73
+@
+65:
+656633 *
+10 0(26:3B
+	
+9
+10
+
+
+11
+67
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+27:
+272815 *
+1 (26:3B
+	
+9
+29
+
+
+11
+30
+
+55
+555648
+@
+24:
+242515 *
+1 (26:3B
+	
+9
+10
+
+
+11
+26
+@
+31:
+313233 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+
+51
+515248
+
+53
+535448
+@
+68:
+686933 *
+14 4(26:3B
+	
+9
+10
+
+
+11
+70
+
+46
+464748
+@
+74:
+747533 *
+1< <(26:3B
+	
+9
+10
+
+
+11
+76
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+40:
+404133 *
+1 (26:3B
+	
+9
+10
+
+
+11
+42
+@
+43:
+434433 *
+1! !(26:3B
+	
+9
+10
+
+
+11
+45
+@
+62:
+626333 *
+1, ,(26:3B
+	
+9
+10
+
+
+11
+64r²	
+
+31634*
+1 (
+
+31635*
+1	 (
+
+31636*
+1	 (
+
+311336*
+1 (
+
+31635*
+1	 (
+
+31636*
+1	 (
+
+311836*
+1 (
+
+31635*
+1	 (
+
+31636*
+1	 (
+
+312736*
+1 (
+
+371836*
+1	 (
+
+
+372736*
+1 (
+
+434649*
+1!! !('
+
+434650*
+1!( !(.
+
+434635*
+1!! !('
+
+431336*
+1" "(
+
+434636*
+1" "(
+
+435134*
+1" "(
+
+434635*
+1"$ "(*
+
+435336*
+1"+ "(0
+
+431336*
+1# #(
+
+432136*
+1# #(
+
+434636*
+1# #("
+
+435134*
+1## #('
+
+431836*
+1$ $(
+
+434636*
+1$ $(
+
+435534*
+1$ $(
+
+434635*
+1$$ $(*
+
+435736*
+1$+ $(1
+
+431836*
+1% %(
+
+432436*
+1% %(
+
+434636*
+1% %(#
+
+435534*
+1%$ %((
+
+591336*
+1) )(
+
+62635*
+1-	 -(
+
+62636*
+1-	 -(
+
+621336*
+1- -(
+
+651836*
+11 1(
+
+68635*
+15	 5(
+
+68636*
+15	 5(
+
+681836*
+15 5(
+
+712736*
+19 9(
+
+74635*
+1=	 =(
+
+74636*
+1=	 =(
+
+742736*
+1= =(

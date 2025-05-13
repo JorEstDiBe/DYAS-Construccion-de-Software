@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.core.Game#toggleBackgroundMode()V
+false
+a0881042f1c2d1ef5937fb41e52b4d88
+com.balitechy.spacewar.main.rendering.BackgroundRenderer#<init>(Z)V
+com.balitechy.spacewar.main.rendering.BackgroundRenderer#instance-init#

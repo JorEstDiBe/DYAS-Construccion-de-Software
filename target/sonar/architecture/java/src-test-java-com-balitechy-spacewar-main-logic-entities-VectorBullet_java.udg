@@ -1,0 +1,231 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150654892*java2.BŸ
+O
+Jsrc/test/java/com/balitechy/spacewar/main/logic/entities/VectorBullet.java2
+
+package4
+/
+*com.balitechy.spacewar.main.logic.entities5
+<
+7com.balitechy.spacewar.main.logic.entities.VectorBullet7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+VectorBullet12
+?
+9com.balitechy.spacewar.main.logic.entities.VectorBullet.x14
+
+field15
+
+private16
+
+x17
+?
+9com.balitechy.spacewar.main.logic.entities.VectorBullet.y19
+
+y20
+C
+=com.balitechy.spacewar.main.logic.entities.VectorBullet.WIDTH22
+
+WIDTH23
+D
+>com.balitechy.spacewar.main.logic.entities.VectorBullet.HEIGHT25
+
+HEIGHT26
+I
+Ccom.balitechy.spacewar.main.logic.entities.VectorBullet#<init>(DD)V28
+
+method29
+
+calls30
+
+
+uses31
+
+
+references32
+E
+?com.balitechy.spacewar.main.logic.entities.VectorBullet#tick()V34
+
+
+tick35
+Z
+Tcom.balitechy.spacewar.main.logic.entities.VectorBullet#render(Ljava/awt/Graphics;)V37
+
+render38
+E
+?com.balitechy.spacewar.main.logic.entities.VectorBullet#getX()D40
+
+
+getX41
+E
+?com.balitechy.spacewar.main.logic.entities.VectorBullet#getY()D43
+
+
+getY44J
+
+1
+12Z
+
+3	
+354jç
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+@
+27:
+272829 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+24:
+242515 *
+1 (26:3B
+	
+9
+10
+
+
+11
+26
+@
+39:
+394029 *
+1" "(26:3B
+	
+9
+10
+
+
+11
+41
+@
+42:
+424329 *
+1& &(26:3B
+	
+9
+10
+
+
+11
+44
+@
+33:
+333429 *
+1 (26:3B
+	
+9
+10
+
+
+11
+35
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+36:
+363729 *
+1 (26:3B
+	
+9
+10
+
+
+11
+38
+@
+21:
+212215 *
+1 (26:3B
+	
+9
+10
+
+
+11
+23
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17rı
+
+27630*
+1 (
+
+27631*
+1	 (
+
+27632*
+1	 (
+
+271332*
+1 (
+
+27631*
+1	 (
+
+27632*
+1	 (
+
+271832*
+1 (
+
+331832*
+1	 (
+
+
+361332*
+1 (
+
+361832*
+1# ($
+
+361332*
+1, (-
+
+361832*
+16 (7
+
+391332*
+1# #(
+
+421832*
+1' '(

@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.factory.SpriteGameFactory#createObstacle(IILcom/balitechy/spacewar/main/core/Game;)Lcom/balitechy/spacewar/main/logic/entities/Obstacle;
+false
+2c1bcec1def9cc5e80d7c6d77e01ed2c
+com.balitechy.spacewar.main.logic.entities.SpriteObstacle#<init>(IILcom/balitechy/spacewar/main/core/Game;)V
+com.balitechy.spacewar.main.logic.entities.SpriteObstacle#instance-init#

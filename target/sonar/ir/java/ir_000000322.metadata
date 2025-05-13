@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.rendering.SpritesImageLoader#getImage(IIII)Ljava/awt/image/BufferedImage;
+false
+26e1cbe6aec321d66e0b0887ca411981
+==
+getSubimage java.awt.image.BufferedImage#getSubimage(IIII)Ljava/awt/image/BufferedImage;

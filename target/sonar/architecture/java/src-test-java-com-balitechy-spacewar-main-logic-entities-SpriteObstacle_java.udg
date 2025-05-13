@@ -1,0 +1,217 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150654360*java2.Bþ
+
+Q
+Lsrc/test/java/com/balitechy/spacewar/main/logic/entities/SpriteObstacle.java2
+
+package4
+/
+*com.balitechy.spacewar.main.logic.entities5
+>
+9com.balitechy.spacewar.main.logic.entities.SpriteObstacle7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+SpriteObstacle12
+9
+3com.balitechy.spacewar.main.logic.entities.Obstacle14
+
+unknown15
+
+extends16
+
+
+uses17
+E
+?com.balitechy.spacewar.main.logic.entities.SpriteObstacle.image19
+
+field20
+
+private21
+
+image22
+r
+lcom.balitechy.spacewar.main.logic.entities.SpriteObstacle#<init>(IILcom/balitechy/spacewar/main/core/Game;)V24
+
+method25
++
+%com.balitechy.spacewar.main.core.Game27
+
+	has param28
+
+calls29
+
+is type30
+
+
+references31
+>
+8com.balitechy.spacewar.main.rendering.SpritesImageLoader33
+k
+ecom.balitechy.spacewar.main.rendering.SpritesImageLoader#getImage(IIII)Ljava/awt/image/BufferedImage;35
+
+returns36
+r
+lcom.balitechy.spacewar.main.core.Game#getSprites()Lcom/balitechy/spacewar/main/rendering/SpritesImageLoader;38
+?
+9com.balitechy.spacewar.main.logic.entities.Obstacle.WIDTH40
+@
+:com.balitechy.spacewar.main.logic.entities.Obstacle.HEIGHT42
+\
+Vcom.balitechy.spacewar.main.logic.entities.SpriteObstacle#render(Ljava/awt/Graphics;)V44
+
+render45
+;
+5com.balitechy.spacewar.main.logic.entities.Obstacle.x47
+;
+5com.balitechy.spacewar.main.logic.entities.Obstacle.y49J
+
+1
+12Z
+
+3	
+354jµ
+
+39
+394015
+
+26
+262715
+
+48
+484915
+
+37
+373815
+
+46
+464715
+
+41
+414215
+@
+18:
+181920 *
+1 (26:3B
+	
+9
+21
+
+
+11
+22
+
+32
+323315
+@
+43:
+434425 *
+1 (26:3B
+	
+9
+10
+
+
+11
+45
+
+13
+131415
+@
+23:
+232425 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+34
+343515rÍ
+
+61316*
+1% (-
+
+61317*
+1% (-
+
+232628*
+1) (-
+
+23629*
+1 (
+
+232630*
+1. (2
+
+232617*
+1) (-
+
+231331*
+1	 (
+
+231329*
+1	 (
+
+231329*
+1	 (
+
+23617*
+1	 (
+
+23631*
+1	 (
+
+231831*
+1 (
+
+233231*
+1 (
+
+233429*
+1( (0
+
+233236*
+1 (
+
+232631*
+1 (
+
+233729*
+1 (%
+
+233931*
+1; (@
+
+234131*
+1B (H
+
+431831*
+1 (
+
+434631*
+1! ("
+
+434831*
+1) (*

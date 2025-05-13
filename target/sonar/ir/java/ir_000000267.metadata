@@ -1,0 +1,10 @@
+com.balitechy.spacewar.main.logic.control.ObstacleController#tick()V
+false
+f6758f4d1855e12b7de17549641c410f
+com.balitechy.spacewar.main.logic.control.ObstacleController#spawnObstacle()V
+==
+get java.util.LinkedList#get(I)Ljava/lang/Object;
+getY com.balitechy.spacewar.main.logic.entities.Obstacle#getY()D
+remove java.util.LinkedList#remove(Ljava/lang/Object;)Z
+size java.util.LinkedList#size()I
+tick com.balitechy.spacewar.main.logic.entities.Obstacle#tick()V

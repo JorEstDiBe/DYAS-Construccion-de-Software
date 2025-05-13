@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.logic.entities.SpriteObstacle#render(Ljava/awt/Graphics;)V
+false
+b4487ff106259a6a84615f62be1d010e
+==
+drawImage java.awt.Graphics#drawImage(Ljava/awt/Image;IILjava/awt/image/ImageObserver;)Z

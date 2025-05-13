@@ -1,0 +1,8 @@
+com.balitechy.spacewar.main.logic.control.BulletController#render(Ljava/awt/Graphics;)V
+false
+16b8dfa764950c0a22a08051abc7c775
+==
+get java.util.LinkedList#get(I)Ljava/lang/Object;
+render com.balitechy.spacewar.main.logic.entities.Bullet#render(Ljava/awt/Graphics;)V
+render com.balitechy.spacewar.main.logic.entities.VectorBullet#render(Ljava/awt/Graphics;)V
+size java.util.LinkedList#size()I

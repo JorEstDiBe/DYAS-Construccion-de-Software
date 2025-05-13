@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.factory.VectorGameFactory#createObstacle(IILcom/balitechy/spacewar/main/core/Game;)Lcom/balitechy/spacewar/main/logic/entities/Obstacle;
+false
+9273819c9acab57a405470517cb1b7c0
+com.balitechy.spacewar.main.logic.entities.VectorObstacle#<init>(II)V
+com.balitechy.spacewar.main.logic.entities.VectorObstacle#instance-init#

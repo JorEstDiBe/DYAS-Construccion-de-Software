@@ -1,0 +1,7 @@
+com.balitechy.spacewar.main.core.Game#changeFactory(Lcom/balitechy/spacewar/main/factory/GameFactory;)V
+false
+3a63f91c21a7dedf32be06042cc918f4
+com.balitechy.spacewar.main.rendering.BackgroundRenderer#<init>(Z)V
+com.balitechy.spacewar.main.rendering.BackgroundRenderer#instance-init#
+==
+init com.balitechy.spacewar.main.core.Game#init()V

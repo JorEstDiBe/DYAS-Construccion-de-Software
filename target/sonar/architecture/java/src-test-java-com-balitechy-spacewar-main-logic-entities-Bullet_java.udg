@@ -1,0 +1,291 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150654692*java2.B¦
+I
+Dsrc/test/java/com/balitechy/spacewar/main/logic/entities/Bullet.java2
+
+package4
+/
+*com.balitechy.spacewar.main.logic.entities5
+6
+1com.balitechy.spacewar.main.logic.entities.Bullet7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+Bullet12
+9
+3com.balitechy.spacewar.main.logic.entities.Bullet.x14
+
+field15
+
+private16
+
+x17
+9
+3com.balitechy.spacewar.main.logic.entities.Bullet.y19
+
+y20
+=
+7com.balitechy.spacewar.main.logic.entities.Bullet.WIDTH22
+
+WIDTH23
+>
+8com.balitechy.spacewar.main.logic.entities.Bullet.HEIGHT25
+
+HEIGHT26
+=
+7com.balitechy.spacewar.main.logic.entities.Bullet.image28
+
+image29
+j
+dcom.balitechy.spacewar.main.logic.entities.Bullet#<init>(DDLcom/balitechy/spacewar/main/core/Game;)V31
+
+method32
++
+%com.balitechy.spacewar.main.core.Game34
+
+unknown35
+
+	has param36
+
+calls37
+
+is type38
+
+
+uses39
+
+
+references40
+A
+;com.balitechy.spacewar.main.rendering.ImageFlyweightFactory42
+€
+zcom.balitechy.spacewar.main.rendering.ImageFlyweightFactory#getImage(Ljava/lang/String;IIII)Ljava/awt/image/BufferedImage;44
+?
+9com.balitechy.spacewar.main.logic.entities.Bullet#tick()V46
+
+
+tick47
+T
+Ncom.balitechy.spacewar.main.logic.entities.Bullet#render(Ljava/awt/Graphics;)V49
+
+render50
+?
+9com.balitechy.spacewar.main.logic.entities.Bullet#getY()D52
+
+
+getY53
+?
+9com.balitechy.spacewar.main.logic.entities.Bullet#getX()D55
+
+
+getX56J
+
+1
+12Z
+
+3	
+354j‹
+@
+27:
+272815 *
+1 (26:3B
+	
+9
+16
+
+
+11
+29
+
+33
+333435
+@
+51:
+515232 *
+1& &(26:3B
+	
+9
+10
+
+
+11
+53
+
+41
+414235
+
+43
+434435
+@
+45:
+454632 *
+1 (26:3B
+	
+9
+10
+
+
+11
+47
+@
+48:
+484932 *
+1" "(26:3B
+	
+9
+10
+
+
+11
+50
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+18:
+181915 *
+1 (26:3B
+	
+9
+16
+
+
+11
+20
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+@
+24:
+242515 *
+1 (26:3B
+	
+9
+10
+
+
+11
+26
+@
+30:
+303132 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+21:
+212215 *
+1 (26:3B
+	
+9
+10
+
+
+11
+23
+@
+54:
+545532 *
+1* *(26:3B
+	
+9
+10
+
+
+11
+56rÍ
+
+303336*
+1' (+
+
+30637*
+1 (
+
+303338*
+1, (0
+
+303339*
+1' (+
+
+30639*
+1	 (
+
+30640*
+1	 (
+
+301340*
+1 (
+
+30639*
+1	 (
+
+30640*
+1	 (
+
+301840*
+1 (
+
+302740*
+1 (
+
+304140*
+1 (*
+
+304337*
+1+ (3
+
+304139*
+1 (*
+
+302140*
+1L (Q
+
+302440*
+1S (Y
+
+451840*
+1	 (
+
+
+482740*
+1# #(
+
+481340*
+1#" #(#
+
+481840*
+1#+ #(,
+
+511840*
+1' '(
+
+541340*
+1+ +(

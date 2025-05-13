@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.factory.SpriteGameFactory#createPlayer(IILcom/balitechy/spacewar/main/core/Game;)Lcom/balitechy/spacewar/main/logic/entities/Player;
+false
+324a0fa1035c33fcb794df00e2996040
+com.balitechy.spacewar.main.logic.entities.Player#<init>(DDLcom/balitechy/spacewar/main/core/Game;)V
+com.balitechy.spacewar.main.logic.entities.Player#instance-init#

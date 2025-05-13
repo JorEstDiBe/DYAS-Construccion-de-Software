@@ -1,0 +1,688 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150655020*java2.Bç
+M
+Hsrc/test/java/com/balitechy/spacewar/main/logic/entities/PlayerTest.java2
+
+package4
+/
+*com.balitechy.spacewar.main.logic.entities5
+:
+5com.balitechy.spacewar.main.logic.entities.PlayerTest7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+
+PlayerTest12
+n
+hcom.balitechy.spacewar.main.logic.entities.PlayerTest#dummyGame()Lcom/balitechy/spacewar/main/core/Game;14
+
+method15
+
+private16
+
+	dummyGame17
++
+%com.balitechy.spacewar.main.core.Game19
+
+unknown20
+
+returns21
+
+
+uses22
+
+calls23
+;
+5com.balitechy.spacewar.main.factory.SpriteGameFactory25
+=
+7com.balitechy.spacewar.main.logic.entities.PlayerTest$127
+
+	protected28
+á
+Äcom.balitechy.spacewar.main.logic.entities.PlayerTest$1#getBullets()Lcom/balitechy/spacewar/main/logic/control/BulletController;30
+
+
+getBullets31
+@
+:com.balitechy.spacewar.main.logic.control.BulletController33
+R
+Lcom.balitechy.spacewar.main.logic.entities.PlayerTest#testPlayerMovesLeft()V35
+
+testPlayerMovesLeft36
+ 
+org.junit.jupiter.api.Test38
+
+annotated by39
+7
+1com.balitechy.spacewar.main.logic.entities.Player41
+
+is type42
+
+
+references43
+C
+=com.balitechy.spacewar.main.logic.entities.Player#setVelX(D)V45
+?
+9com.balitechy.spacewar.main.logic.entities.Player#tick()V47
+&
+ org.junit.jupiter.api.Assertions49
+5
+/org.junit.jupiter.api.Assertions#assertTrue(Z)V51
+?
+9com.balitechy.spacewar.main.logic.entities.Player#getX()D53
+S
+Mcom.balitechy.spacewar.main.logic.entities.PlayerTest#testPlayerMovesRight()V55
+
+testPlayerMovesRight56
+M
+Gcom.balitechy.spacewar.main.logic.entities.PlayerTest#testSetAndGetX()V58
+
+testSetAndGetX59
+@
+:com.balitechy.spacewar.main.logic.entities.Player#setX(D)V61
+8
+2org.junit.jupiter.api.Assertions#assertEquals(DD)V63
+M
+Gcom.balitechy.spacewar.main.logic.entities.PlayerTest#testSetAndGetY()V65
+
+testSetAndGetY66
+@
+:com.balitechy.spacewar.main.logic.entities.Player#setY(D)V68
+?
+9com.balitechy.spacewar.main.logic.entities.Player#getY()D70
+J
+Dcom.balitechy.spacewar.main.logic.entities.PlayerTest#testSetVelX()V72
+
+testSetVelX73
+J
+Dcom.balitechy.spacewar.main.logic.entities.PlayerTest#testSetVelY()V75
+
+testSetVelY76
+C
+=com.balitechy.spacewar.main.logic.entities.Player#setVelY(D)V78
+R
+Lcom.balitechy.spacewar.main.logic.entities.PlayerTest#testShootAddsBullet()V80
+
+testShootAddsBullet81
+=
+7com.balitechy.spacewar.main.logic.entities.PlayerTest$283
+á
+Äcom.balitechy.spacewar.main.logic.entities.PlayerTest$2#getBullets()Lcom/balitechy/spacewar/main/logic/control/BulletController;85
+c
+]com.balitechy.spacewar.main.logic.control.BulletController#getBullets()Ljava/util/LinkedList;87
+@
+:com.balitechy.spacewar.main.logic.entities.Player#shoot()V89
+G
+Aorg.junit.jupiter.api.Assertions#assertTrue(ZLjava/lang/String;)V91J
+
+1
+12Z
+
+3	
+354j•	
+
+88
+888920
+
+60
+606120
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+A
+84;
+848515 *
+1Y Y(282:3B
+	
+9
+10
+
+
+11
+31
+
+69
+697020
+
+90
+909120
+
+77
+777820
+@
+74:
+747515 *
+1K K(26:3B
+	
+9
+10
+
+
+11
+76
+
+86
+868720
+@
+34:
+343515 *
+1% %(26:3B
+	
+9
+10
+
+
+11
+36
+
+67
+676820
+@
+64:
+646515 *
+1< <(26:3B
+	
+9
+10
+
+
+11
+66
+
+32
+323320
+@
+54:
+545515 *
+1- -(26:3B
+	
+9
+10
+
+
+11
+56
+
+18
+181920
+4
+82.
+82838 *
+1X< X(=279:3B
+	
+9
+28
+4
+26.
+26278 *
+12 (3213:3B
+	
+9
+28
+
+46
+464720
+
+24
+242520
+@
+79:
+798015 *
+1S S(26:3B
+	
+9
+10
+
+
+11
+81
+
+52
+525320
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+
+37
+373820
+
+40
+404120
+
+50
+505120
+
+62
+626320
+@
+71:
+717215 *
+1C C(26:3B
+	
+9
+10
+
+
+11
+73
+
+48
+484920
+@
+57:
+575815 *
+15 5(26:3B
+	
+9
+10
+
+
+11
+59
+A
+29;
+293015 *
+1 (226:3B
+	
+9
+10
+
+
+11
+31
+
+44
+444520rΩ
+
+131821*
+1 (
+
+131822*
+1 (
+
+131823*
+1 (
+
+132423*
+1 (.
+
+293221*
+1 ($
+
+293222*
+1 ($
+
+293223*
+1   (,
+
+343739*
+1% %(
+
+343722*
+1% %(
+
+
+344042*
+1' '(
+
+344022*
+1'	 '(
+
+344023*
+1' '(#
+
+341821*
+1'. '(7
+
+34643*
+1'. '(7
+
+341323*
+1'. '(7
+
+344043*
+1(	 ((
+
+344423*
+1( ((
+
+344043*
+1)	 )(
+
+344623*
+1) )(
+
+344843*
+1*	 *(
+
+345023*
+1*	 *(
+
+344043*
+1* *(
+
+345223*
+1* *(
+
+543739*
+1- -(
+
+543722*
+1- -(
+
+
+544042*
+1/ /(
+
+544022*
+1/	 /(
+
+544023*
+1/ /(#
+
+541821*
+1/. /(7
+
+54643*
+1/. /(7
+
+541323*
+1/. /(7
+
+544043*
+10	 0(
+
+544423*
+10 0(
+
+544043*
+11	 1(
+
+544623*
+11 1(
+
+544843*
+12	 2(
+
+545023*
+12	 2(
+
+544043*
+12 2(
+
+545223*
+12 2(
+
+573739*
+15 5(
+
+573722*
+15 5(
+
+
+574042*
+17 7(
+
+574022*
+17	 7(
+
+574023*
+17 7(#
+
+571821*
+17* 7(3
+
+57643*
+17* 7(3
+
+571323*
+17* 7(3
+
+574043*
+18	 8(
+
+576023*
+18 8(
+
+574843*
+19	 9(
+
+576223*
+19	 9(
+
+574043*
+19 9(!
+
+575223*
+19" 9(&
+
+643739*
+1< <(
+
+643722*
+1< <(
+
+
+644042*
+1> >(
+
+644022*
+1>	 >(
+
+644023*
+1> >(#
+
+641821*
+1>* >(3
+
+64643*
+1>* >(3
+
+641323*
+1>* >(3
+
+644043*
+1?	 ?(
+
+646723*
+1? ?(
+
+644843*
+1@	 @(
+
+646223*
+1@	 @(
+
+644043*
+1@ @( 
+
+646923*
+1@! @(%
+
+713739*
+1C C(
+
+713722*
+1C C(
+
+
+714042*
+1E E(
+
+714022*
+1E	 E(
+
+714023*
+1E E(#
+
+711821*
+1E* E(3
+
+71643*
+1E* E(3
+
+711323*
+1E* E(3
+
+714043*
+1F	 F(
+
+714423*
+1F F(
+
+714043*
+1G	 G(
+
+714623*
+1G G(
+
+714843*
+1H	 H(
+
+716223*
+1H	 H(
+
+714043*
+1H H(
+
+715223*
+1H  H($
+
+743739*
+1K K(
+
+743722*
+1K K(
+
+
+744042*
+1M M(
+
+744022*
+1M	 M(
+
+744023*
+1M M(#
+
+741821*
+1M* M(3
+
+74643*
+1M* M(3
+
+741323*
+1M* M(3
+
+744043*
+1N	 N(
+
+747723*
+1N N(
+
+744043*
+1O	 O(
+
+744623*
+1O O(
+
+744843*
+1P	 P(
+
+746223*
+1P	 P(
+
+744043*
+1P P(
+
+746923*
+1P  P($
+
+793739*
+1S S(
+
+793722*
+1S S(
+
+
+793242*
+1V V((
+
+793222*
+1V	 V(
+
+793223*
+1V/ V(?
+
+791842*
+1X X(
+
+791822*
+1X	 X(
+
+791823*
+1X X("
+
+792423*
+1X' X(8
+
+843221*
+1Z Z($
+
+843222*
+1Z Z($
+
+794042*
+1_ _(
+
+794022*
+1_	 _(
+
+794023*
+1_ _(#
+
+793243*
+1a a((
+
+798623*
+1a) a(3
+
+794043*
+1b	 b(
+
+798823*
+1b b(
+
+793243*
+1c c('
+
+798623*
+1c( c(2
+
+794843*
+1e	 e(
+
+799023*
+1e	 e(

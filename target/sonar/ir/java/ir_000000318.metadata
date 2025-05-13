@@ -1,0 +1,6 @@
+com.balitechy.spacewar.main.logic.entities.VectorObstacle#render(Ljava/awt/Graphics;)V
+false
+36bac41f811d29efa26475f850741a93
+==
+fillRect java.awt.Graphics#fillRect(IIII)V
+setColor java.awt.Graphics#setColor(Ljava/awt/Color;)V

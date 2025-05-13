@@ -1,0 +1,6 @@
+com.balitechy.spacewar.main.logic.entities.Player#render(Ljava/awt/Graphics;)V
+false
+4c5be7f93e8f49c893556b4ee89b90ed
+==
+drawImage java.awt.Graphics#drawImage(Ljava/awt/Image;IILjava/awt/image/ImageObserver;)Z
+setColor java.awt.Graphics#setColor(Ljava/awt/Color;)V
