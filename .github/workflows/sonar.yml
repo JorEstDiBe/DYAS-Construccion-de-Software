@@ -21,5 +21,20 @@ jobs:
           java-version: '17'
           distribution: 'adopt'
 
-      - name: Construir y analizar con Maven y SonarCloud
-        run: mvn clean verify sonar:sonar -Dsonar.projectKey=juandmaes1_DYAS-Construccion-de-Software -Dsonar.organization=juandmaes1 -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=4201c7b11d4331266bdf7fe6f30f1c8cc0e93851
+      - name: Cache de dependencias Maven
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.m2/repository
+            !~/.m2/repository/org/sonarsource
+          key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
+          restore-keys: ${{ runner.os }}-maven-
+
+      - name: Construir y analizar con Maven + JaCoCo + SonarCloud
+        run: mvn clean verify sonar:sonar \
+          -Dsonar.projectKey=juandmaes1_DYAS-Construccion-de-Software \
+          -Dsonar.organization=juandmaes1 \
+          -Dsonar.host.url=https://sonarcloud.io \
+          -Dsonar.login=4201c7b11d4331266bdf7fe6f30f1c8cc0e93851
+
+        
