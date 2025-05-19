@@ -1,0 +1,18 @@
+com.balitechy.spacewar.main.core.Game#tick()V
+false
+4a423ff5e0ae9987816aa7c7f2b53e00
+==
+collidesWith com.balitechy.spacewar.main.logic.entities.Obstacle#collidesWith(Lcom/balitechy/spacewar/main/logic/entities/Player;)Z
+get java.util.LinkedList#get(I)Ljava/lang/Object;
+getObstacles com.balitechy.spacewar.main.logic.control.ObstacleController#getObstacles()Ljava/util/LinkedList;
+getX com.balitechy.spacewar.main.logic.entities.Bullet#getX()D
+getX com.balitechy.spacewar.main.logic.entities.Obstacle#getX()D
+getX com.balitechy.spacewar.main.logic.entities.VectorBullet#getX()D
+getY com.balitechy.spacewar.main.logic.entities.Bullet#getY()D
+getY com.balitechy.spacewar.main.logic.entities.Obstacle#getY()D
+getY com.balitechy.spacewar.main.logic.entities.VectorBullet#getY()D
+remove java.util.LinkedList#remove(Ljava/lang/Object;)Z
+size java.util.LinkedList#size()I
+tick com.balitechy.spacewar.main.logic.control.BulletController#tick()V
+tick com.balitechy.spacewar.main.logic.control.ObstacleController#tick()V
+tick com.balitechy.spacewar.main.logic.entities.Player#tick()V

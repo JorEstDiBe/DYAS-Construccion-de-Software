@@ -1,0 +1,8 @@
+com.balitechy.spacewar.main.logic.control.ObstacleController#spawnObstacle()V
+false
+498b09f838491d3def4bff875b42b66c
+==
+add java.util.LinkedList#add(Ljava/lang/Object;)Z
+createObstacle com.balitechy.spacewar.main.factory.GameFactory#createObstacle(IILcom/balitechy/spacewar/main/core/Game;)Lcom/balitechy/spacewar/main/logic/entities/Obstacle;
+getFactory com.balitechy.spacewar.main.core.Game#getFactory()Lcom/balitechy/spacewar/main/factory/GameFactory;
+nextInt java.util.Random#nextInt(I)I

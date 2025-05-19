@@ -1,0 +1,7 @@
+com.balitechy.spacewar.main.core.Game#keyReleased(Ljava/awt/event/KeyEvent;)V
+false
+0b594c34e75911d6b8b63567c6169705
+==
+getKeyCode java.awt.event.KeyEvent#getKeyCode()I
+setVelX com.balitechy.spacewar.main.logic.entities.Player#setVelX(D)V
+setVelY com.balitechy.spacewar.main.logic.entities.Player#setVelY(D)V

@@ -1,0 +1,6 @@
+com.balitechy.spacewar.main.logic.entities.Obstacle#collidesWith(Lcom/balitechy/spacewar/main/logic/entities/Player;)Z
+false
+189ab267bac485bdbce91f8f37361cc4
+==
+getX com.balitechy.spacewar.main.logic.entities.Player#getX()D
+getY com.balitechy.spacewar.main.logic.entities.Player#getY()D

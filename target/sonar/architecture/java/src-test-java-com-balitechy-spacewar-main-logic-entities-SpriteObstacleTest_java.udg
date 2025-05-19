@@ -1,0 +1,333 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150654812*java2.BÃ
+U
+Psrc/test/java/com/balitechy/spacewar/main/logic/entities/SpriteObstacleTest.java2
+
+package4
+/
+*com.balitechy.spacewar.main.logic.entities5
+B
+=com.balitechy.spacewar.main.logic.entities.SpriteObstacleTest7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+SpriteObstacleTest12
+v
+pcom.balitechy.spacewar.main.logic.entities.SpriteObstacleTest#dummyGame()Lcom/balitechy/spacewar/main/core/Game;14
+
+method15
+
+private16
+
+	dummyGame17
++
+%com.balitechy.spacewar.main.core.Game19
+
+unknown20
+
+returns21
+
+
+uses22
+
+calls23
+;
+5com.balitechy.spacewar.main.factory.SpriteGameFactory25
+E
+?com.balitechy.spacewar.main.logic.entities.SpriteObstacleTest$127
+
+	protected28
+
+†com.balitechy.spacewar.main.logic.entities.SpriteObstacleTest$1#getSprites()Lcom/balitechy/spacewar/main/rendering/SpritesImageLoader;30
+
+
+getSprites31
+>
+8com.balitechy.spacewar.main.rendering.SpritesImageLoader33
+G
+Acom.balitechy.spacewar.main.logic.entities.SpriteObstacleTest$1$135
+t
+ncom.balitechy.spacewar.main.logic.entities.SpriteObstacleTest$1$1#getImage(IIII)Ljava/awt/image/BufferedImage;37
+
+getImage38
+b
+\com.balitechy.spacewar.main.logic.entities.SpriteObstacleTest#testSpriteObstacleMovesDown()V40
+!
+testSpriteObstacleMovesDown41
+ 
+org.junit.jupiter.api.Test43
+
+annotated by44
+?
+9com.balitechy.spacewar.main.logic.entities.SpriteObstacle46
+
+is type47
+
+
+references48
+9
+3com.balitechy.spacewar.main.logic.entities.Obstacle50
+A
+;com.balitechy.spacewar.main.logic.entities.Obstacle#getY()D52
+A
+;com.balitechy.spacewar.main.logic.entities.Obstacle#tick()V54
+&
+ org.junit.jupiter.api.Assertions56
+G
+Aorg.junit.jupiter.api.Assertions#assertTrue(ZLjava/lang/String;)V58
+Z
+Tcom.balitechy.spacewar.main.logic.entities.SpriteObstacleTest#testInitialPosition()V60
+
+testInitialPosition61
+8
+2org.junit.jupiter.api.Assertions#assertEquals(DD)V63
+A
+;com.balitechy.spacewar.main.logic.entities.Obstacle#getX()D65J
+
+1
+12Z
+
+3	
+354jã
+A
+29;
+293015 *
+1 (226:3B
+	
+9
+10
+
+
+11
+31
+
+18
+181920
+A
+36;
+363715 *
+1 (234:3B
+	
+9
+10
+
+
+11
+38
+
+53
+535420
+4
+26.
+26278 *
+12 (3213:3B
+	
+9
+28
+
+64
+646520
+
+51
+515220
+
+24
+242520
+
+57
+575820
+
+42
+424320
+
+32
+323320
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+
+62
+626320
+9
+64
+678 *
+1 ( :3B
+	
+9
+10
+
+
+11
+12
+
+49
+495020
+
+45
+454620
+
+55
+555620
+@
+39:
+394015 *
+1' '(26:3B
+	
+9
+10
+
+
+11
+41
+4
+34.
+34358 *
+1e (f229:3B
+	
+9
+28
+@
+59:
+596015 *
+1/ /(26:3B
+	
+9
+10
+
+
+11
+61r›
+
+131821*
+1 (
+
+131822*
+1 (
+
+131823*
+1 (
+
+132423*
+1 (.
+
+293221*
+1 (
+
+293222*
+1: (L
+
+293223*
+1B (T
+
+394244*
+1' '(
+
+394222*
+1' '(
+
+
+394547*
+1) )( 
+
+394522*
+1)	 )(
+
+394523*
+1)' )(5
+
+391821*
+1)> )(G
+
+39648*
+1)> )(G
+
+391323*
+1)> )(G
+
+394948*
+1* *(#
+
+395123*
+1*$ *((
+
+394948*
+1+	 +(
+
+395323*
+1+ +(
+
+395548*
+1,	 ,(
+
+395723*
+1,	 ,(
+
+394948*
+1, ,(
+
+395123*
+1, ,(!
+
+594244*
+1/ /(
+
+594222*
+1/ /(
+
+
+594547*
+11 1( 
+
+594522*
+11	 1(
+
+594523*
+11' 1(5
+
+591821*
+11> 1(G
+
+59648*
+11> 1(G
+
+591323*
+11> 1(G
+
+595548*
+12	 2(
+
+596223*
+12	 2(
+
+594948*
+12 2("
+
+596423*
+12# 2('
+
+595548*
+13	 3(
+
+596223*
+13	 3(
+
+594948*
+13 3("
+
+595123*
+13# 3('

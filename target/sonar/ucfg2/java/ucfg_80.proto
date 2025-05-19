@@ -1,0 +1,17 @@
+
+Šcom.balitechy.spacewar.main.factory.SpriteGameFactory#createBulletController()Lcom/balitechy/spacewar/main/logic/control/BulletController;“
+ˆC:/UNI/Microsoft VS Code/DYAS-Construccion-de-Software-analisis/src/main/java/com/balitechy/spacewar/main/factory/SpriteGameFactory.java (2"1*§
+1 (%‹ˆ
+ (#@
+%0:com.balitechy.spacewar.main.logic.control.BulletController":com.balitechy.spacewar.main.logic.control.BulletController¹
+¶
+ (%
+%1"Dcom.balitechy.spacewar.main.logic.control.BulletController#<init>()V*^
+
+__unknown_file (B
+@
+%0:com.balitechy.spacewar.main.logic.control.BulletController"N
+ (&B
+@
+%0:com.balitechy.spacewar.main.logic.control.BulletControllerB97
+5com.balitechy.spacewar.main.factory.SpriteGameFactoryH

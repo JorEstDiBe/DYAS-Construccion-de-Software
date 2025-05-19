@@ -1,0 +1,157 @@
+
+vcom.balitechy.spacewar.main.logic.entities.Obstacle#collidesWith(Lcom/balitechy/spacewar/main/logic/entities/Player;)Z‘
+†C:/UNI/Microsoft VS Code/DYAS-Construccion-de-Software-analisis/src/main/java/com/balitechy/spacewar/main/logic/entities/Obstacle.java! !("7*ô
+2% %(B
+@
+% %(
+
+%12int"__id*"
+
+__unknown_file (
+""i
+g
+% %(
+%13double"__calculate*
+% %(
++*
+% %(
+""*
+% %(
+
+
+%12intº·
+% %()
+%14double"9com.balitechy.spacewar.main.logic.entities.Player#getY()D*Y
+
+__unknown_file (=
+;
+player1com.balitechy.spacewar.main.logic.entities.Player2getY()t
+r
+% %()
+%15boolean"	__compare*
+% %(
+>*
+% %(
+
+%13double*
+% %()
+
+%14double*
+1*ó
+4$ $(¹¶
+$ $( 
+%8double"9com.balitechy.spacewar.main.logic.entities.Player#getY()D*Y
+
+__unknown_file (=
+;
+player1com.balitechy.spacewar.main.logic.entities.Player2getY()A
+?
+$# $(0	
+%9int"__id*"
+
+__unknown_file (
+""p
+n
+$ $(0
+%10double"__calculate*
+$! $("
++*
+$ $( 
+
+%8double*
+$# $(0
+	
+%9intk
+i
+$ $(0
+%11boolean"	__compare*
+$ $(
+<*
+$ $(
+""*
+$ $(0
+
+%10double*
+2
+1*ó
+6# #(A
+?
+# #(	
+%4int"__id*"
+
+__unknown_file (
+""g
+e
+# #(
+%5double"__calculate*
+# #(
++*
+# #(
+""*
+# #(
+	
+%4int¹¶
+# #((
+%6double"9com.balitechy.spacewar.main.logic.entities.Player#getX()D*Y
+
+__unknown_file (=
+;
+player1com.balitechy.spacewar.main.logic.entities.Player2getX()q
+o
+# #((
+%7boolean"	__compare*
+# #(
+>*
+# #(
+
+%5double*
+# #((
+
+%6double*	
+2
+4
+1*ö
+7" "(¹¶
+" "( 
+%0double"9com.balitechy.spacewar.main.logic.entities.Player#getX()D*Y
+
+__unknown_file (=
+;
+player1com.balitechy.spacewar.main.logic.entities.Player2getX()A
+?
+"# "(/	
+%1int"__id*"
+
+__unknown_file (
+""o
+m
+" "(/
+%2double"__calculate*
+"! "("
++*
+" "( 
+
+%0double*
+"# "(/
+	
+%1inti
+g
+" "(/
+%3boolean"	__compare*
+" "(
+<*
+" "(
+""*
+" "(/
+
+%2double*
+2
+4
+6
+1*!
+1" %(*"
+" %(*
+"":G
+!  !(-;
+player1com.balitechy.spacewar.main.logic.entities.PlayerB75
+3com.balitechy.spacewar.main.logic.entities.ObstacleHX

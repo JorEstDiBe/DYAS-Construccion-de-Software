@@ -1,0 +1,209 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150654985*java2.Bó	
+J
+Esrc/test/java/com/balitechy/spacewar/main/input/InputHandlerTest.java2
+
+package4
+&
+!com.balitechy.spacewar.main.input5
+7
+2com.balitechy.spacewar.main.input.InputHandlerTest7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+InputHandlerTest12
+Y
+Scom.balitechy.spacewar.main.input.InputHandlerTest#testKeyPressedDelegatesToGame()V14
+
+method15
+#
+testKeyPressedDelegatesToGame16
+ 
+org.junit.jupiter.api.Test18
+
+unknown19
+
+annotated by20
+
+
+uses21
++
+%com.balitechy.spacewar.main.core.Game23
+
+is type24
+
+calls25
+;
+5com.balitechy.spacewar.main.factory.SpriteGameFactory27
+:
+4com.balitechy.spacewar.main.input.InputHandlerTest$129
+
+	protected30
+A
+;com.balitechy.spacewar.main.input.InputHandlerTest$1.called32
+
+field33
+
+called34
+a
+[com.balitechy.spacewar.main.input.InputHandlerTest$1#keyPressed(Ljava/awt/event/KeyEvent;)V36
+
+
+keyPressed37
+&
+ org.junit.jupiter.api.Assertions39
+
+
+references40
+8
+2org.junit.jupiter.api.Assertions#assertEquals(II)V42
+G
+Acom.balitechy.spacewar.main.input.InputHandlerTest$1#wasCalled()Z44
+
+	wasCalled45
+4
+.com.balitechy.spacewar.main.input.InputHandler47
+[
+Ucom.balitechy.spacewar.main.input.InputHandler#keyPressed(Ljava/awt/event/KeyEvent;)V49J
+
+1
+12Z
+
+3	
+354jˆ
+
+22
+222319
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16
+
+46
+464719
+
+26
+262719
+A
+31;
+313233 *
+1 (228:3B
+	
+9
+30
+
+
+11
+34
+A
+43;
+434415 *
+1% %(228:3B
+	
+9
+10
+
+
+11
+45
+
+17
+171819
+4
+28.
+28298 *
+1< (=213:3B
+	
+9
+30
+A
+35;
+353615 *
+1 (228:3B
+	
+9
+10
+
+
+11
+37
+
+41
+414219
+
+38
+383919
+
+48
+484919
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12r•
+
+131720*
+1 (
+
+131721*
+1 (
+
+
+132224*
+1 (
+
+132221*
+1	 (
+
+132225*
+1 ("
+
+132625*
+1' (8
+
+353840*
+1! !(
+
+354125*
+1! !(
+
+353140*
+1" "(
+
+433140*
+1& &(
+
+134624*
+1* *(
+
+134621*
+1*	 *(
+
+134625*
+1*$ *(0
+
+134640*
+1+	 +(
+
+134825*
+1+ +(

@@ -1,0 +1,12 @@
+com.balitechy.spacewar.main.logic.control.BulletController#tick()V
+false
+ec7ba8585f1d2eaf2eff6f372ad589c0
+==
+get java.util.LinkedList#get(I)Ljava/lang/Object;
+getY com.balitechy.spacewar.main.logic.entities.Bullet#getY()D
+getY com.balitechy.spacewar.main.logic.entities.VectorBullet#getY()D
+removeBullet com.balitechy.spacewar.main.logic.control.BulletController#removeBullet(Lcom/balitechy/spacewar/main/logic/entities/Bullet;)V
+removeBulletV com.balitechy.spacewar.main.logic.control.BulletController#removeBulletV(Lcom/balitechy/spacewar/main/logic/entities/VectorBullet;)V
+size java.util.LinkedList#size()I
+tick com.balitechy.spacewar.main.logic.entities.Bullet#tick()V
+tick com.balitechy.spacewar.main.logic.entities.VectorBullet#tick()V

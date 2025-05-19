@@ -1,0 +1,22 @@
+com.balitechy.spacewar.main.core.Game#main([Ljava/lang/String;)V
+false
+9288e85b63531174ae44a911edfe2896
+com.balitechy.spacewar.main.core.Game#<init>(Lcom/balitechy/spacewar/main/factory/GameFactory;)V
+com.balitechy.spacewar.main.core.Game#instance-init#
+com.balitechy.spacewar.main.core.Game#start()V
+com.balitechy.spacewar.main.factory.SpriteGameFactory#<init>()V
+com.balitechy.spacewar.main.factory.SpriteGameFactory#instance-init#
+java.awt.Dimension#<init>(II)V
+java.awt.Dimension#instance-init#
+javax.swing.JFrame#<init>(Ljava/lang/String;)V
+javax.swing.JFrame#instance-init#
+==
+add java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;
+pack java.awt.Window#pack()V
+setDefaultCloseOperation javax.swing.JFrame#setDefaultCloseOperation(I)V
+setLocationRelativeTo java.awt.Window#setLocationRelativeTo(Ljava/awt/Component;)V
+setMaximumSize java.awt.Component#setMaximumSize(Ljava/awt/Dimension;)V
+setMinimumSize java.awt.Component#setMinimumSize(Ljava/awt/Dimension;)V
+setPreferredSize java.awt.Component#setPreferredSize(Ljava/awt/Dimension;)V
+setResizable java.awt.Frame#setResizable(Z)V
+setVisible java.awt.Window#setVisible(Z)V

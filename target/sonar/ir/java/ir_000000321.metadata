@@ -1,0 +1,6 @@
+com.balitechy.spacewar.main.rendering.SpritesImageLoader#loadImage()Ljava/awt/image/BufferedImage;
+false
+1113f55162603b9b1d29e00e8a537ff3
+java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;
+java.lang.Object#getClass()Ljava/lang/Class;
+javax.imageio.ImageIO#read(Ljava/net/URL;)Ljava/awt/image/BufferedImage;

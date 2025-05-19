@@ -1,0 +1,6 @@
+com.balitechy.spacewar.main.rendering.BackgroundRenderer#render(Ljava/awt/Graphics;Ljava/awt/Canvas;)V
+false
+b7d843e1094059229e3f3e8c825e6886
+==
+renderS com.balitechy.spacewar.main.rendering.BackgroundRenderer#renderS(Ljava/awt/Graphics;Ljava/awt/Canvas;)V
+renderV com.balitechy.spacewar.main.rendering.BackgroundRenderer#renderV(Ljava/awt/Graphics;Ljava/awt/Canvas;)V

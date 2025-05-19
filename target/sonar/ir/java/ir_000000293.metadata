@@ -1,0 +1,5 @@
+com.balitechy.spacewar.main.logic.control.BulletController#addBullet(Lcom/balitechy/spacewar/main/logic/entities/Bullet;)V
+false
+bfdc31f113ef8c03d471f9c9fc3b54c9
+==
+add java.util.LinkedList#add(Ljava/lang/Object;)Z

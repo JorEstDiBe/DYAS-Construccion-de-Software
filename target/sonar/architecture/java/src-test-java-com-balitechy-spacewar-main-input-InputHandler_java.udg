@@ -1,0 +1,236 @@
+
+1.0(juandmaes1_DYAS-Construccion-de-SoftwareJavaFrontend"1747150654400*java2.BÞ
+F
+Asrc/test/java/com/balitechy/spacewar/main/input/InputHandler.java2
+
+package4
+&
+!com.balitechy.spacewar.main.input5
+3
+.com.balitechy.spacewar.main.input.InputHandler7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+InputHandler12
+9
+3com.balitechy.spacewar.main.input.InputHandler.game14
+
+field15
+
+private16
+
+
+game17
++
+%com.balitechy.spacewar.main.core.Game19
+
+unknown20
+
+is type21
+
+
+uses22
+e
+_com.balitechy.spacewar.main.input.InputHandler#<init>(Lcom/balitechy/spacewar/main/core/Game;)V24
+
+method25
+
+	has param26
+
+calls27
+
+
+references28
+[
+Ucom.balitechy.spacewar.main.input.InputHandler#keyPressed(Ljava/awt/event/KeyEvent;)V30
+
+
+keyPressed31
+R
+Lcom.balitechy.spacewar.main.core.Game#keyPressed(Ljava/awt/event/KeyEvent;)V33
+9
+3com.balitechy.spacewar.main.core.Game#isGameOver()Z35
+8
+2com.balitechy.spacewar.main.core.Game#resetGame()V37
+\
+Vcom.balitechy.spacewar.main.input.InputHandler#keyReleased(Ljava/awt/event/KeyEvent;)V39
+
+keyReleased40
+S
+Mcom.balitechy.spacewar.main.core.Game#keyReleased(Ljava/awt/event/KeyEvent;)V42J
+
+1
+12Z
+
+3	
+354j§
+
+18
+181920
+@
+38:
+383925 *
+1 (26:3B
+	
+9
+10
+
+
+11
+40
+
+34
+343520
+
+36
+363720
+
+41
+414220
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+13:
+131415 *
+1	 	(26:3B
+	
+9
+16
+
+
+11
+17
+@
+23:
+232425 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+@
+29:
+293025 *
+1 (26:3B
+	
+9
+10
+
+
+11
+31
+
+32
+323320rÂ
+
+131821*
+1	 	(
+
+131822*
+1	 	(
+
+131822*
+1	 	(
+
+231826*
+1 (
+
+23627*
+1 (
+
+231821*
+1 ("
+
+231822*
+1 (
+
+23622*
+1	 (
+
+23628*
+1	 (
+
+231822*
+1 (
+
+231328*
+1 (
+
+291828*
+1	 (
+
+293227*
+1 (
+
+291328*
+1	 (
+
+291822*
+1	 (
+
+291328*
+1	 (
+
+291828*
+10 (4
+
+293427*
+15 (?
+
+291328*
+10 (4
+
+291822*
+10 (4
+
+291328*
+10 (4
+
+291828*
+1 (
+
+293627*
+1 (
+
+291328*
+1 (
+
+291822*
+1 (
+
+291328*
+1 (
+
+381828*
+1	 (
+
+384127*
+1 (
+
+381328*
+1	 (
+
+381822*
+1	 (
+
+381328*
+1	 (

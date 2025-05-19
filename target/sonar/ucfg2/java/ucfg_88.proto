@@ -1,0 +1,58 @@
+
+bcom.balitechy.spacewar.main.rendering.SpritesImageLoader#loadImage()Ljava/awt/image/BufferedImage;–
+‹C:/UNI/Microsoft VS Code/DYAS-Construccion-de-Software-analisis/src/main/java/com/balitechy/spacewar/main/rendering/SpritesImageLoader.java ("1* 	
+1
+ (¸µ
+ (!
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*X
+
+__unknown_file (<:
+8com.balitechy.spacewar.main.rendering.SpritesImageLoader2
+getClass()
+Œ
+. (2
+%1java.lang.String"__id*b
+
+__unknown_file (F*D:
+8com.balitechy.spacewar.main.rendering.SpritesImageLoader"
+pathìé
+ (3
+%2java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*3
+
+__unknown_file (
+
+%0java.lang.Class*4
+
+__unknown_file (
+
+%1java.lang.String2getResource(Ljava/lang/String;)ä
+á
+
+ (4"
+%3java.awt.image.BufferedImage"Hjavax.imageio.ImageIO#read(Ljava/net/URL;)Ljava/awt/image/BufferedImage;*5
+
+__unknown_file ("
+javax.imageio.ImageIO*0
+
+__unknown_file (
+
+%2java.net.URLœ
+™
+ (4E:
+8com.balitechy.spacewar.main.rendering.SpritesImageLoader"
+image"__id*@
+
+__unknown_file ($
+"
+%3java.awt.image.BufferedImageœ
+™
+	 ("
+%4java.awt.image.BufferedImage"__id*c
+
+__unknown_file (G*E:
+8com.balitechy.spacewar.main.rendering.SpritesImageLoader"
+image"0
+ ($
+"
+%4java.awt.image.BufferedImageB<:
+8com.balitechy.spacewar.main.rendering.SpritesImageLoaderH

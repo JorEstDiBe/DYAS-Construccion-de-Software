@@ -1,0 +1,15 @@
+com.balitechy.spacewar.main.core.Game#keyPressed(Ljava/awt/event/KeyEvent;)V
+false
+9782ecf9c3bab827103a3967943fd19c
+com.balitechy.spacewar.main.factory.SpriteGameFactory#<init>()V
+com.balitechy.spacewar.main.factory.SpriteGameFactory#instance-init#
+com.balitechy.spacewar.main.factory.VectorGameFactory#<init>()V
+com.balitechy.spacewar.main.factory.VectorGameFactory#instance-init#
+==
+changeFactory com.balitechy.spacewar.main.core.Game#changeFactory(Lcom/balitechy/spacewar/main/factory/GameFactory;)V
+getKeyCode java.awt.event.KeyEvent#getKeyCode()I
+println java.io.PrintStream#println(Ljava/lang/String;)V
+resetGame com.balitechy.spacewar.main.core.Game#resetGame()V
+setVelX com.balitechy.spacewar.main.logic.entities.Player#setVelX(D)V
+setVelY com.balitechy.spacewar.main.logic.entities.Player#setVelY(D)V
+shoot com.balitechy.spacewar.main.logic.entities.Player#shoot()V
