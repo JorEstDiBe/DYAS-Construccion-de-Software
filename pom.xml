@@ -57,4 +57,5 @@
             <type>jar</type>
         </dependency>
     </dependencies>
+    <name>Game - Construccion de Software</name>
 </project>
