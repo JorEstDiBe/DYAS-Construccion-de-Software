@@ -176,18 +176,18 @@ El proyecto cuenta con un **pipeline de CI/CD** configurado en GitHub Actions qu
         - run: mvn -B clean install
         - run: mvn test
   ```
-## CD (deploy-simulation)
+- **CD (deploy-simulation)**
 
-- **Condición**: se ejecuta sólo si `build-and-test` finaliza correctamente.  
-- **Action**: simula el despliegue al entorno de staging con un simple `echo`, asegurando el cierre del ciclo de entrega continua.
+  - **Condición**: se ejecuta sólo si `build-and-test` finaliza correctamente.  
+  - **Action**: simula el despliegue al entorno de staging con un simple `echo`, asegurando el cierre del ciclo de entrega continua.
 
-```yaml
-name: deploy-simulation
-needs: build-and-test
-runs-on: ubuntu-latest
-steps:
-  - run: echo "Despliegue simulado del sistema aprobado"
-```
+    ```yaml
+    name: deploy-simulation
+    needs: build-and-test
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Despliegue simulado del sistema aprobado"
+    ```
 
 ## Análisis de Calidad de Código
 
